@@ -1,0 +1,7 @@
+id,name,description,image_url,created_at,updated_at
+1,Instruction 1,Description 1,https://example.com/images/fruits.jpg,2023-05-28 10:00:00.000,2023-05-28 10:00:00.000
+2,Instruction 2,Description 2,https://example.com/images/vegetables.jpg,2023-05-28 10:00:00.000,2023-05-28 10:00:00.000
+3,Instruction 3,Description 3,https://example.com/images/trees.jpg,2023-05-28 10:00:00.000,2023-05-28 10:00:00.000
+4,Instruction 4,Description 4,https://example.com/images/shrubs.jpg,2023-05-28 10:00:00.000,2023-05-28 10:00:00.000
+5,Instruction 5,Description 5,https://example.com/images/herbs.jpg,2023-05-28 10:00:00.000,
+6,testing,testing,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589469/be-agriculture/zgnh9yvds0cx4xbc4mog.png,2024-06-05 12:11:10.383,2024-06-05 12:11:10.383

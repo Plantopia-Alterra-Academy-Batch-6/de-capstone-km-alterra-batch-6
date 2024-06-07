@@ -1,0 +1,9 @@
+id,plant_id,height,height_unit,wide,wide_unit,leaf_color
+1,1,100,centimeter,5,centimeter,Green
+2,1,100,centimeter,5,centimeter,Green
+8,6,100,centimeter,5,centimeter,Green
+9,7,100,centimeter,5,centimeter,Green
+10,8,100,centimeter,5,centimeter,Green
+11,9,100,centimeter,5,centimeter,Green
+12,12,100,centimeter,5,centimeter,Green
+13,13,100,centimeter,5,centimeter,Green

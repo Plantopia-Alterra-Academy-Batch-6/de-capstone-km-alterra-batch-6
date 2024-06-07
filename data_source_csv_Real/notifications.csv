@@ -1,0 +1,12 @@
+id,title,body,user_id,is_read,created_at,updated_at
+1,Watering Reminder,It's time to water your plant: Jagung,3,0,2024-06-05 14:21:10.305,2024-06-05 14:21:10.305
+2,Watering Reminder,It's time to water your plant: Jagung,4,0,2024-06-05 14:21:11.177,2024-06-05 14:21:11.177
+3,Watering Reminder,It's time to water your plant: Mawae,3,0,2024-06-05 14:24:10.905,2024-06-05 14:24:10.905
+4,Watering Reminder,It's time to water your plant: Anggrek,3,0,2024-06-05 17:08:40.235,2024-06-05 17:08:40.235
+5,Watering Reminder,It's time to water your plant: Semangka,3,0,2024-06-05 17:08:41.558,2024-06-05 17:08:41.558
+6,Watering Reminder,It's time to water your plant: Anggrek,3,0,2024-06-06 12:13:16.013,2024-06-06 12:13:16.013
+7,Watering Reminder,It's time to water your plant: Anggrek,3,0,2024-06-06 15:00:00.506,2024-06-06 15:00:00.506
+8,Watering Reminder,It's time to water your plant: Semangka,3,0,2024-06-06 15:00:00.608,2024-06-06 15:00:00.608
+9,Watering Reminder,It's time to water your plant: Jagung,3,0,2024-06-06 15:00:00.800,2024-06-06 15:00:00.800
+10,Watering Reminder,It's time to water your plant: Jagung,4,0,2024-06-06 15:00:01.100,2024-06-06 15:00:01.100
+11,Watering Reminder,It's time to water your plant: Mawae,3,0,2024-06-06 15:00:01.600,2024-06-06 15:00:01.600

@@ -1,0 +1,15 @@
+id,plant_id,file_name,is_primary,created_at,updated_at
+1,1,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717030121/be-agriculture/rodbtgrbhyta2zozbfxo.png,1,2024-05-30 00:48:41.989,2024-05-30 00:48:41.989
+2,1,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717030506/be-agriculture/ikeryllocclcxnl9xajx.png,1,2024-05-30 00:55:06.828,2024-05-30 00:55:06.811
+7,6,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589487/be-agriculture/vnmx724rdz5jmaeqvyot.png,1,2024-06-05 12:11:28.567,2024-06-05 12:11:28.567
+8,6,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589488/be-agriculture/vco6dnznzyrjrt4j9zwe.png,0,2024-06-05 12:11:28.567,2024-06-05 12:11:28.567
+9,7,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589555/be-agriculture/e9fly6k5x9skd7bl1can.png,1,2024-06-05 12:12:36.369,2024-06-05 12:12:36.369
+10,7,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589556/be-agriculture/hebiqqsjxhka0fvptxb4.png,0,2024-06-05 12:12:36.369,2024-06-05 12:12:36.369
+11,8,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589687/be-agriculture/czb63lpf8lxjgro1wkam.png,1,2024-06-05 12:14:48.399,2024-06-05 12:14:48.399
+12,8,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589688/be-agriculture/rkw2qrtvd4dbkjxubond.png,0,2024-06-05 12:14:48.399,2024-06-05 12:14:48.399
+13,9,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589729/be-agriculture/bibabaxgvgm0ayxgxyly.png,1,2024-06-05 12:15:30.864,2024-06-05 12:15:30.864
+14,9,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717589730/be-agriculture/irgofbaa8sshjw5gzkqr.png,0,2024-06-05 12:15:30.864,2024-06-05 12:15:30.864
+15,12,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717596729/be-agriculture/lyk1emdkjwpxojzbvhdk.png,1,2024-06-05 14:12:11.057,2024-06-05 14:12:11.057
+16,12,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717596730/be-agriculture/xhcew7qln0ob9jckg31i.png,0,2024-06-05 14:12:11.057,2024-06-05 14:12:11.057
+17,13,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717647436/be-agriculture/zs2zhgtswpbbhclapeol.png,1,2024-06-06 04:17:18.703,2024-06-06 04:17:18.703
+18,13,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717647437/be-agriculture/r0kar9lallaguqw3rgly.png,0,2024-06-06 04:17:18.703,2024-06-06 04:17:18.703
