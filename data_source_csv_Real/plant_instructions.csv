@@ -11,3 +11,5 @@ id,plant_id,step_number,step_title,step_description,step_image_url,additional_ti
 20,12,2,Instruction 2,Description of Instruction 2,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717596728/be-agriculture/yl6csmoodj48qcqw3mic.png,Add tips of Instruction 2,2024-06-05 14:12:11.057,2024-06-05 14:12:11.057,2
 21,13,1,Instruction 1,Description of Instruction 1,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717647435/be-agriculture/idigjd0teicppcjrnqoo.png,Add tips of Instruction 1,2024-06-06 04:17:18.703,2024-06-06 04:17:18.703,1
 22,13,2,Instruction 2,Description of Instruction 2,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717647436/be-agriculture/l78vzsa0jsckiwvvenhr.png,Add tips of Instruction 2,2024-06-06 04:17:18.703,2024-06-06 04:17:18.703,2
+23,14,1,Instruction 1,Description of Instruction 1,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718012632/be-agriculture/x5vz35rcgufr2bieuyun.png,,2024-06-10 09:43:53.175,2024-06-10 09:43:53.175,1
+24,14,2,Instruction 2,Description of Instruction 2,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718012632/be-agriculture/lwvhkmz0il95ptdomfso.png,,2024-06-10 09:43:53.175,2024-06-10 09:43:53.175,2

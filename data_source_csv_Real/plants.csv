@@ -1,10 +1,11 @@
-id,name,description,is_toxic,harvest_duration,sunlight,planting_time,plant_category_id,climate_condition,plant_characteristic_id,created_at,updated_at
-1,Apple Updated,Apple is a fruit.,0,90,Fullsun,Summer,1,Dry,0,2024-05-30 00:48:41.989,2024-05-30 00:55:06.814
-6,Anggrek,Anggrek merah adalah ......,1,90,Fullsun,Summer,1,Dry,0,2024-06-05 12:11:28.567,2024-06-05 12:11:28.567
-7,Semangka,Semangka merah adalah ......,0,12,Cloudy,Summer,4,Dry,0,2024-06-05 12:12:36.369,2024-06-05 12:12:36.369
-8,Jagung,Jagung manis adalah ......,0,12,Cloudy,Summer,2,Dry,0,2024-06-05 12:14:48.399,2024-06-05 12:14:48.399
-9,Padi,padi beras c4 adalah ......,0,120,Fullsun,Summer,2,Dry,0,2024-06-05 12:15:30.864,2024-06-05 12:15:30.864
-10,Ketela,Ketela rambat adalah ......,1,53,Fullsun,Summer,2,Dry,0,2024-06-05 12:15:30.864,2024-06-05 12:15:30.864
-11,Anggrek,Anggrek hitam adalah ......,1,20,Cloudy,Summer,1,Dry,0,2024-06-05 12:11:28.567,2024-06-05 12:11:28.567
-12,Mawae,Mawar merah adalah ......,0,120,Fullsun,Summer,2,Dry,0,2024-06-05 14:12:11.057,2024-06-05 14:12:11.057
-13,Tomat,Tomat adalah ......,0,120,Fullsun,Summer,2,Dry,0,2024-06-06 04:17:18.703,2024-06-06 04:17:18.703
+id,name,description,is_toxic,harvest_duration,sunlight,planting_time,plant_category_id,climate_condition,plant_characteristic_id,created_at,updated_at,additional_tips
+1,Apple Updated,Apple is a fruit.,0,90,Fullsun,Summer,1,Dry,0,2024-05-30 00:48:41.989,2024-05-30 00:55:06.814,
+6,Anggrek,Anggrek merah adalah ......,1,90,Fullsun,Summer,1,Dry,0,2024-06-05 12:11:28.567,2024-06-05 12:11:28.567,
+7,Semangka,Semangka merah adalah ......,0,12,Cloudy,Summer,4,Dry,0,2024-06-05 12:12:36.369,2024-06-05 12:12:36.369,
+8,Jagung,Jagung manis adalah ......,0,12,Cloudy,Summer,2,Dry,0,2024-06-05 12:14:48.399,2024-06-05 12:14:48.399,
+9,Padi,padi beras c4 adalah ......,0,120,Fullsun,Summer,2,Dry,0,2024-06-05 12:15:30.864,2024-06-05 12:15:30.864,
+10,Ketela,Ketela rambat adalah ......,1,53,Fullsun,Summer,2,Dry,0,2024-06-05 12:15:30.864,2024-06-05 12:15:30.864,
+11,Anggrek,Anggrek hitam adalah ......,1,20,Cloudy,Summer,1,Dry,0,2024-06-05 12:11:28.567,2024-06-05 12:11:28.567,
+12,Mawae,Mawar merah adalah ......,0,120,Fullsun,Summer,2,Dry,0,2024-06-05 14:12:11.057,2024-06-05 14:12:11.057,
+13,Tomat,Tomat adalah ......,0,120,Fullsun,Summer,2,Dry,0,2024-06-06 04:17:18.703,2024-06-06 04:17:18.703,
+14,Venus ,Venus adalah bunga pemakan serangga,1,90,Fullsun,Summer,1,Dry,0,2024-06-10 09:43:53.175,2024-06-10 09:43:53.175,Add tips instruction
