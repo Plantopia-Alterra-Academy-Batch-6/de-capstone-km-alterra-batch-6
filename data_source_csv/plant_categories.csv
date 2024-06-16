@@ -1,0 +1,14 @@
+id,name,image_url,created_at,updated_at
+1,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333516/be-agriculture/b3daes3zib4wexoun3bc.png,2024-05-30 00:45:23.789,2024-06-14 02:51:56.957
+2,Succulents,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333609/be-agriculture/kkg8wwp0fyhezmccjbmk.png,2023-05-28 10:00:00.000,2024-06-14 02:53:30.136
+4,Angiosperms,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333630/be-agriculture/rnbsbch89mojruvivjb3.png,2023-05-28 10:00:00.000,2024-06-14 02:53:50.500
+5,Herbs,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333658/be-agriculture/tgqf8oghb5opoeqwtj3m.png,2023-05-28 10:00:00.000,2024-06-14 02:54:18.975
+7,Shrubs,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333690/be-agriculture/bugqhgaocenk4cxpp4p0.png,2023-05-28 10:00:00.000,2024-06-14 02:54:50.460
+8,Ferns,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333720/be-agriculture/c3il6oo50qpalbnsrdzy.png,2024-06-07 07:07:57.671,2024-06-14 02:55:21.187
+9,Trees,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333774/be-agriculture/b9i2iwfoseqd7pi2laxu.png,2024-06-07 07:18:57.328,2024-06-14 02:56:14.506
+10,Climbers,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333823/be-agriculture/wkcz53wtbkxdxp6y3qxq.png,2024-06-14 02:57:03.527,2024-06-14 02:57:03.527
+11,Conifers,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333840/be-agriculture/dpfga4bsuql07bc9iju2.png,2024-06-14 02:57:20.947,2024-06-14 02:57:20.947
+12,Annual,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333853/be-agriculture/m2lkm1zujvdjlb8ofolk.png,2024-06-14 02:57:33.736,2024-06-14 02:57:33.736
+13,Biennals,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333865/be-agriculture/ynphki5ibnla71pjgozu.png,2024-06-14 02:57:46.294,2024-06-14 02:57:46.294
+14,Bryophytes,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333876/be-agriculture/jwzfx9zyiu3uso88jdgq.png,2024-06-14 02:57:57.152,2024-06-14 02:57:57.152
+15,Perennials,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718333888/be-agriculture/vrotitbseylihxajod6d.png,2024-06-14 02:58:08.940,2024-06-14 02:58:08.940
