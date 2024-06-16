@@ -1,8 +1,0 @@
-id,name,image_url,created_at,updated_at
-1,catctus,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717029923/be-agriculture/idemfkvbckscaqazosle.png,2024-05-30 00:45:23.789,2024-05-30 00:45:23.789
-2,Vegetables,https://example.com/images/vegetables.jpg,2023-05-28 10:00:00.000,2023-05-28 10:00:00.000
-4,Shrubs,https://example.com/images/shrubs.jpg,2023-05-28 10:00:00.000,2023-05-28 10:00:00.000
-5,Herbs,https://example.com/images/herbs.jpg,2023-05-28 10:00:00.000,2023-05-28 10:00:00.000
-7,Fruits,https://example.com/images/fruits.jpg,2023-05-28 10:00:00.000,2023-05-28 10:00:00.000
-8,Tree,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717744077/be-agriculture/ywc9plqo0k2jqzj4h5jv.jpg,2024-06-07 07:07:57.671,2024-06-07 07:07:57.671
-9,Flowers,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1717748484/be-agriculture/emtdgfcqwvskuydpzxl0.jpg,2024-06-07 07:18:57.328,2024-06-07 08:21:24.770
