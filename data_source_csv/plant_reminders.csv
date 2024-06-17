@@ -2,3 +2,4 @@ id,plant_id,watering_frequency,each,watering_amount,unit,watering_time,weather_c
 46,46,7,days,500,ml,09:00,Sunny,Water early in the morning when it's sunny,2024-06-15 15:22:02.791,2024-06-15 15:22:02.791
 55,55,1,Week,1,Milliliter (ml),12:00,Rainy,asdasdss,2024-06-16 04:15:28.019,2024-06-16 04:15:28.019
 59,59,1,Day,1,Liter (l),12:00,Rainy,asdasdasdasd,2024-06-16 05:10:41.563,2024-06-16 05:10:41.563
+61,61,5,Week,300,Liter (l),16:30,"Bright Sun,Rainy,Stormy Rain","Sun,Rainy,Stormy",2024-06-17 08:00:05.718,2024-06-17 08:00:05.718

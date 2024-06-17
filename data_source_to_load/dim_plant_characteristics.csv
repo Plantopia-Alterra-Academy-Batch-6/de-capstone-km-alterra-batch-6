@@ -1,0 +1,5 @@
+plant_characteristic_id,height,height_unit,wide,wide_unit,leaf_color
+46,100,centimeter,5,centimeter,Green
+55,1,Centimeter,1,Meter,Green
+59,1,Centimeter,1,Meter,Green
+61,3,Meter,300,Centimeter,Red

@@ -1,6 +1,7 @@
 id,plant_id,step_number,step_title,step_description,step_image_url,additional_tips,created_at,updated_at,instruction_category_id
-68,46,1,Instruction 1,Description of Instruction 1,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718464922/be-agriculture/xwlqnzij1wjrmdpxujon.jpg,0,2024-06-15,2024-06-15,1
-69,46,2,Instruction 2,Description of Instruction 2,,0,2024-06-15,2024-06-15,2
-81,55,1,asdasd,<p>asdasdsd</p>,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718511326/be-agriculture/gdzfypnxvfqwy4wwisjh.jpg,0,2024-06-16,2024-06-16,2
-82,55,2,dsffdsfsdf,<p>sdasdasd</p>,,0,2024-06-16,2024-06-16,3
-89,59,1,asdasdas,<p>asdasdasd</p>,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718514638/be-agriculture/ma5zlu3yqixke4v3hkwj.jpg,0,2024-06-16,2024-06-16,2
+68,46,1,Instruction 1,Description of Instruction 1,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718464922/be-agriculture/xwlqnzij1wjrmdpxujon.jpg,-,2024-06-15,2024-06-15,1
+69,46,2,Instruction 2,Description of Instruction 2,,-,2024-06-15,2024-06-15,2
+81,55,1,asdasd,<p>asdasdsd</p>,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718511326/be-agriculture/gdzfypnxvfqwy4wwisjh.jpg,-,2024-06-16,2024-06-16,2
+82,55,2,dsffdsfsdf,<p>sdasdasd</p>,,-,2024-06-16,2024-06-16,3
+89,59,1,asdasdas,<p>asdasdasd</p>,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718514638/be-agriculture/ma5zlu3yqixke4v3hkwj.jpg,-,2024-06-16,2024-06-16,2
+92,61,1,Apaya,<p><u>enaknya apa</u></p>,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718611204/be-agriculture/zdgc7efd3cffu2lprznc.jpg,-,2024-06-17,2024-06-17,3

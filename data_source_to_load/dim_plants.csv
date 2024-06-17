@@ -1,0 +1,5 @@
+plant_id,plant_name,description,is_toxic,harvest_duration,sunlight,planting_time,plant_category,climate_condition,additional_tips,created_at,updated_at
+46,Rose update,Rose is Flowers,1,90,Fullsun,Summer,Fruits,Dry,Add tips instruction,2024-06-15,2024-06-15
+55,asdasd-dsfdsdf,<p>asdasdsassd</p>,1,1,Fullsun,Summer,Fruits,Dry,<p>fsdfsdddf</p>,2024-06-16,2024-06-16
+59,asdaasd-sdasd,<p>asdasd</p>,1,3,Fullsun,Summer,Fruits,Wet,<p>asdasdsdasd</p>,2024-06-16,2024-06-16
+61,Rafflesia-Rafflesiaceae,<p>Bunga <strong>Langka</strong></p>,1,6,Partsun,Autumn,Conifers,Wet,<p><strong><em><u>Tipsnya ya gituu</u></em></strong></p>,2024-06-17,2024-06-17
