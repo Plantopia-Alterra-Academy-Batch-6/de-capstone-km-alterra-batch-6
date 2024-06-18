@@ -1,7 +1,32 @@
 id,plant_id,file_name,is_primary,created_at,updated_at
-54,46,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718464922/be-agriculture/kaebitbpvnjud9aowtjx.jpg,1,2024-06-15,2024-06-15
-62,55,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718511327/be-agriculture/xypbqi8ewu3rqyye8zhq.jpg,1,2024-06-16,2024-06-16
-67,59,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718514639/be-agriculture/enwpap7bfjcobyemhajr.jpg,1,2024-06-16,2024-06-16
-68,59,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718514640/be-agriculture/qctxjb5e8jwiqxv8rd35.jpg,0,2024-06-16,2024-06-16
-71,61,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718611204/be-agriculture/jnz4b19y50ij1branqto.jpg,1,2024-06-17,2024-06-17
-72,61,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718611205/be-agriculture/jvvdxdvgu44vgrwt9uzu.jpg,0,2024-06-17,2024-06-17
+71,61,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718611204/be-agriculture/jnz4b19y50ij1branqto.jpg,1,2024-06-17 08:00:05.709,2024-06-17 08:00:05.709
+72,61,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718611205/be-agriculture/jvvdxdvgu44vgrwt9uzu.jpg,0,2024-06-17 08:00:05.709,2024-06-17 08:00:05.709
+73,62,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718677149/be-agriculture/gklhlzgu0tb2vfqitoam.png,1,2024-06-18 02:19:10.655,2024-06-18 02:19:10.655
+74,62,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718677150/be-agriculture/eedsqevftivpcxstsowx.png,0,2024-06-18 02:19:10.655,2024-06-18 02:19:10.655
+75,63,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718678302/be-agriculture/p2mirpi4jxvjcajwycim.png,1,2024-06-18 02:38:23.623,2024-06-18 02:38:23.623
+76,63,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718678303/be-agriculture/g0p5vrlnhllv0m0sbysb.png,0,2024-06-18 02:38:23.623,2024-06-18 02:38:23.623
+77,64,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718679189/be-agriculture/n5j4vhim5qou0xpblbbk.png,1,2024-06-18 02:53:10.666,2024-06-18 02:53:10.666
+78,64,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718679190/be-agriculture/xwya4lwglf8igvka6uou.png,0,2024-06-18 02:53:10.666,2024-06-18 02:53:10.666
+79,65,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718683890/be-agriculture/hjfsoycqbzykqoau37t3.png,1,2024-06-18 04:11:31.777,2024-06-18 04:11:31.777
+80,65,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718683891/be-agriculture/sdig6m9wn6en0nstkfqp.png,0,2024-06-18 04:11:31.777,2024-06-18 04:11:31.777
+81,66,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718685728/be-agriculture/zkfiurcn5dl7kslzjyod.png,1,2024-06-18 04:42:09.521,2024-06-18 04:42:09.521
+82,66,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718685729/be-agriculture/wd9sk8bnz4wpprsvbgmz.png,0,2024-06-18 04:42:09.521,2024-06-18 04:42:09.521
+83,67,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718686736/be-agriculture/hej7gpoaa6tcuizwmykv.png,1,2024-06-18 04:58:57.702,2024-06-18 04:58:57.702
+84,67,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718686737/be-agriculture/jttzj5vdtzydt3vi4bqd.png,0,2024-06-18 04:58:57.702,2024-06-18 04:58:57.702
+85,68,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718687691/be-agriculture/ukhfrx3g46gq9vayb24m.png,0,2024-06-18 05:14:53.014,2024-06-18 05:14:53.014
+86,68,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718687692/be-agriculture/sxrsxzc9c7lyhyrg0grd.png,1,2024-06-18 05:14:53.014,2024-06-18 05:14:53.014
+87,68,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718687692/be-agriculture/wdgqxkodukvr2k18vdob.png,0,2024-06-18 05:14:53.014,2024-06-18 05:14:53.014
+88,69,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718688817/be-agriculture/e7ypokh0mdpxtowvgcov.png,1,2024-06-18 05:33:37.917,2024-06-18 05:33:37.917
+89,75,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718690678/be-agriculture/kmok9sakorjgemqkhilf.png,1,2024-06-18 06:04:39.375,2024-06-18 06:04:39.375
+90,76,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718697649/be-agriculture/i6hlr3ld51bjofic32d6.png,1,2024-06-18 08:00:50.598,2024-06-18 08:00:50.598
+91,76,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718697650/be-agriculture/antil30djxemfxozgr3u.png,0,2024-06-18 08:00:50.598,2024-06-18 08:00:50.598
+92,77,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718698703/be-agriculture/but6edjnmpkmhgenddui.png,1,2024-06-18 08:18:24.765,2024-06-18 08:18:24.765
+93,77,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718698704/be-agriculture/ncbktfq7ikk4uk9vmfyy.png,0,2024-06-18 08:18:24.765,2024-06-18 08:18:24.765
+94,78,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718699755/be-agriculture/gktwdxkwwid2vz5oe9wy.png,1,2024-06-18 08:35:56.737,2024-06-18 08:35:56.737
+95,78,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718699756/be-agriculture/hzlt45mgyorolnux641b.png,0,2024-06-18 08:35:56.737,2024-06-18 08:35:56.737
+96,79,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718701540/be-agriculture/fez4yzfel8nh2abowoji.png,1,2024-06-18 09:05:40.900,2024-06-18 09:05:40.900
+97,80,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718702231/be-agriculture/j5ypfy5nrfnbxtykk6qr.png,1,2024-06-18 09:17:12.628,2024-06-18 09:17:12.628
+98,81,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718706205/be-agriculture/xwmgjgyhvsnpsj6g2hbl.jpg,1,2024-06-18 10:23:26.436,2024-06-18 10:23:26.436
+99,85,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718712040/be-agriculture/od6kfrpoy51luwzofxhg.jpg,1,2024-06-18 12:00:40.759,2024-06-18 12:00:40.759
+100,86,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718712411/be-agriculture/k4gdekirgvwfc7o44nao.jpg,1,2024-06-18 12:06:51.921,2024-06-18 12:06:51.921
+101,87,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718713005/be-agriculture/r6qxgmyrkfdzjyrxycoq.jpg,1,2024-06-18 12:16:46.136,2024-06-18 12:16:46.136

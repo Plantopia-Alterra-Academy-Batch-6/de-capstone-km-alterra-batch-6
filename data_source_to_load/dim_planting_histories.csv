@@ -1,19 +1,30 @@
-planting_histories_id,user_name,plant_name,plant_category,created_at,updated_at
-2,Octaviano Ryan Eka Putra Hartanto,Rose update,Fruits,2024-06-15,2024-06-15
-3,Dafa Aldian,Rose update,Fruits,2024-06-16,2024-06-16
-4,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-16,2024-06-16
-5,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-16,2024-06-16
-6,Dafa Aldian,Rose update,Fruits,2024-06-16,2024-06-16
-7,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-16,2024-06-16
-8,Dafa Aldian,asdaasd-sdasd,Fruits,2024-06-16,2024-06-16
-9,Dafa Aldian,Rose update,Fruits,2024-06-16,2024-06-16
-10,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-16,2024-06-16
-11,Dafa Aldian,Rose update,Fruits,2024-06-16,2024-06-16
-12,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-16,2024-06-16
-13,Dafa Aldian,Rose update,Fruits,2024-06-16,2024-06-16
-14,Dafa Aldian,Rose update,Fruits,2024-06-16,2024-06-16
-15,Dafa Aldian,asdaasd-sdasd,Fruits,2024-06-16,2024-06-16
-16,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-16,2024-06-16
-17,rizkyyy,Rose update,Fruits,2024-06-16,2024-06-16
-18,rizkyyy,asdasd-dsfdsdf,Fruits,2024-06-16,2024-06-16
-19,Dafa Aldian,Rose update,Fruits,2024-06-16,2024-06-16
+planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
+2,Octaviano Ryan Eka Putra Hartanto,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+3,Dafa Aldian,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+4,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+5,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+6,Dafa Aldian,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+7,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+8,Dafa Aldian,asdaasd-sdasd,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+9,Dafa Aldian,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+10,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+11,Dafa Aldian,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+12,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+13,Dafa Aldian,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+14,Dafa Aldian,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+15,Dafa Aldian,asdaasd-sdasd,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+16,Dafa Aldian,asdasd-dsfdsdf,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+17,rizkyyy,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+18,rizkyyy,asdasd-dsfdsdf,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+19,Dafa Aldian,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+20,developer,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+21,developer,Rose update,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+22,Dafa Aldian,Cucumber - Cucurbitaceae,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+23,farhan,Rafflesia-Rafflesiaceae,Conifers,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+24,Dafa Aldian,Tomato-Solanaceae,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+25,Dafa Aldian,Rafflesia-Rafflesiaceae,Conifers,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+26,Dafa Aldian,Lavender - Lamiaceae,Shrubs,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+27,Dafa Aldian,Basil - Lamiaceae,Herbs,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+28,Dafa Aldian,Strawberry - Rosaceae,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+29,dumy akun,Rafflesia-Rafflesiaceae,Conifers,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725
+30,developer,Lemon - Rutaceae,Fruits,2024-06-18 19:18:43.249113,2024-06-18 19:18:43.249725

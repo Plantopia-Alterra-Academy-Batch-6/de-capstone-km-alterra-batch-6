@@ -1,6 +1,11 @@
-my_plants_id,user_name,plant_name,created_at,updated_at,last_watered_at
-109,annisa,Rose update,2024-06-15,2024-06-15,-
-123,farhan,Rose update,2024-06-16,2024-06-16,-
-133,Dafa Aldian,asdasd-dsfdsdf,2024-06-16,2024-06-16,-
-136,Dafa Aldian,Rose update,2024-06-16,2024-06-16,-
-137,Octaviano Ryan Eka Putra Hartanto,Rose update,2024-06-17,2024-06-17,-
+my_plant_id,user_name,plant_name,created_at,updated_at,last_watered_at
+137,Octaviano Ryan Eka Putra Hartanto,Tomato-Solanaceae,2024-06-17 00:00:00.000,2024-06-17 00:00:00.000,
+149,annisa,Tomato-Solanaceae,2024-06-18 04:30:35.996,2024-06-18 04:30:35.996,
+150,Dafa Aldian,Cucumber - Cucurbitaceae,2024-06-18 06:23:25.398,2024-06-18 06:23:25.398,
+151,farhan,Rafflesia-Rafflesiaceae,2024-06-18 06:23:52.937,2024-06-18 06:23:52.937,
+152,Dafa Aldian,Tomato-Solanaceae,2024-06-18 07:15:09.863,2024-06-18 07:15:09.863,
+153,Dafa Aldian,Rafflesia-Rafflesiaceae,2024-06-18 07:15:20.779,2024-06-18 07:15:20.779,
+154,Dafa Aldian,Lavender - Lamiaceae,2024-06-18 07:15:25.812,2024-06-18 07:15:25.812,
+155,Dafa Aldian,Basil - Lamiaceae,2024-06-18 07:15:31.449,2024-06-18 07:15:31.449,
+156,Dafa Aldian,Strawberry - Rosaceae,2024-06-18 07:15:44.372,2024-06-18 07:15:44.372,
+157,dumy akun,Rafflesia-Rafflesiaceae,2024-06-18 09:40:27.099,2024-06-18 09:40:27.099,

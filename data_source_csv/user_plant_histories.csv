@@ -17,3 +17,14 @@ id,user_id,plant_id,plant_name,plant_category,plant_image_url,created_at,updated
 17,18,46,Rose update,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718464922/be-agriculture/kaebitbpvnjud9aowtjx.jpg,2024-06-16 11:31:45.458,2024-06-16 11:31:45.458
 18,18,55,asdasd-dsfdsdf,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718511327/be-agriculture/xypbqi8ewu3rqyye8zhq.jpg,2024-06-16 11:34:16.193,2024-06-16 11:34:16.193
 19,14,46,Rose update,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718464922/be-agriculture/kaebitbpvnjud9aowtjx.jpg,2024-06-16 12:21:05.912,2024-06-16 12:21:05.912
+20,21,46,Rose update,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718464922/be-agriculture/kaebitbpvnjud9aowtjx.jpg,2024-06-17 19:49:09.339,2024-06-17 19:49:09.339
+21,21,46,Rose update,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718464922/be-agriculture/kaebitbpvnjud9aowtjx.jpg,2024-06-17 22:23:05.492,2024-06-17 22:23:05.492
+22,14,75,Cucumber - Cucurbitaceae,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718690678/be-agriculture/kmok9sakorjgemqkhilf.png,2024-06-18 06:23:26.279,2024-06-18 06:23:26.279
+23,23,61,Rafflesia-Rafflesiaceae,Conifers,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718611204/be-agriculture/jnz4b19y50ij1branqto.jpg,2024-06-18 06:23:53.832,2024-06-18 06:23:53.832
+24,14,62,Tomato-Solanaceae,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718677149/be-agriculture/gklhlzgu0tb2vfqitoam.png,2024-06-18 07:15:11.115,2024-06-18 07:15:11.115
+25,14,61,Rafflesia-Rafflesiaceae,Conifers,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718611204/be-agriculture/jnz4b19y50ij1branqto.jpg,2024-06-18 07:15:21.815,2024-06-18 07:15:21.815
+26,14,63,Lavender - Lamiaceae,Shrubs,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718678302/be-agriculture/p2mirpi4jxvjcajwycim.png,2024-06-18 07:15:26.827,2024-06-18 07:15:26.827
+27,14,64,Basil - Lamiaceae,Herbs,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718679189/be-agriculture/n5j4vhim5qou0xpblbbk.png,2024-06-18 07:15:32.480,2024-06-18 07:15:32.480
+28,14,65,Strawberry - Rosaceae,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718683890/be-agriculture/hjfsoycqbzykqoau37t3.png,2024-06-18 07:15:45.442,2024-06-18 07:15:45.442
+29,28,61,Rafflesia-Rafflesiaceae,Conifers,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718611204/be-agriculture/jnz4b19y50ij1branqto.jpg,2024-06-18 09:40:28.139,2024-06-18 09:40:28.139
+30,21,78,Lemon - Rutaceae,Fruits,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718699755/be-agriculture/gktwdxkwwid2vz5oe9wy.png,2024-06-18 09:52:31.563,2024-06-18 09:52:31.563

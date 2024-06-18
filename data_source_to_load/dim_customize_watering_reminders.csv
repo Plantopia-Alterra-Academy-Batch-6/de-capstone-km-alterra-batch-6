@@ -1,2 +1,3 @@
-customize_watering_reminders_id,my_plants_id,time,recurring,type,created_at,updated_at
-8,137,22:00,1,daily,2024-06-17,2024-06-17
+customize_watering_reminder_id,my_plant_id,time,recurring,type,created_at,updated_at
+8,137,17:00,1,daily,2024-06-18 19:18:43.330886,2024-06-18 19:18:43.331500
+9,153,17:00,1,daily,2024-06-18 19:18:43.330886,2024-06-18 19:18:43.331500
