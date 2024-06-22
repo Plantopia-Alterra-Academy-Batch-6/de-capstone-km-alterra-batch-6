@@ -1,13 +1,33 @@
 id,title,body,user_id,is_read,created_at,updated_at,plant_id
-32,Saatnya meniram tanaman anda,Saatnya meniram tanaman anda,3,1,2024-06-17 00:00:00.000,2024-06-17 14:46:42.965,46
-33,Customize Watering Reminder,"Hiii Octaviano Ryan Eka Putra Hartanto, It's time to water your plant: Rose update",3,1,2024-06-17 15:00:00.880,2024-06-18 09:55:41.479,46
-34,Customize Watering Reminder,"Hiii Octaviano Ryan Eka Putra Hartanto, It's time to water your plant: Tomato-Solanaceae",3,0,2024-06-18 08:00:03.641,2024-06-18 09:55:54.125,62
-35,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Rafflesia-Rafflesiaceae",14,0,2024-06-18 09:00:04.040,2024-06-18 09:00:04.040,61
-36,Customize Watering Reminder,"Hiii Octaviano Ryan Eka Putra Hartanto, It's time to water your plant: Tomato-Solanaceae",3,0,2024-06-18 10:00:03.341,2024-06-18 10:00:03.341,62
-37,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Rafflesia-Rafflesiaceae",14,0,2024-06-18 10:00:05.550,2024-06-18 10:00:05.550,61
-38,Customize Watering Reminder,"Hiii Octaviano Ryan Eka Putra Hartanto, It's time to water your plant: Tomato-Solanaceae",3,0,2024-06-18 10:00:06.696,2024-06-18 10:00:06.696,62
-39,Customize Watering Reminder,"Hiii Octaviano Ryan Eka Putra Hartanto, It's time to water your plant: Tomato-Solanaceae",3,0,2024-06-18 10:00:08.609,2024-06-18 10:00:08.609,62
-40,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Rafflesia-Rafflesiaceae",14,0,2024-06-18 10:00:09.795,2024-06-18 10:00:09.795,61
-41,Customize Watering Reminder,"Hiii Octaviano Ryan Eka Putra Hartanto, It's time to water your plant: Tomato-Solanaceae",3,0,2024-06-18 10:00:10.096,2024-06-18 10:00:10.096,62
-42,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Rafflesia-Rafflesiaceae",14,0,2024-06-18 10:00:11.307,2024-06-18 10:00:11.307,61
-43,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Rafflesia-Rafflesiaceae",14,0,2024-06-18 10:00:12.896,2024-06-18 10:00:12.896,61
+48,Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Alang alang-Imperata cylindrica",14,1,2024-06-21 18:00:07.653,2024-06-21 22:15:34.200,81
+49,Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: alang alang-Poaceae",14,1,2024-06-21 18:00:09.853,2024-06-21 22:15:33.929,85
+50,Watering Reminder,"Hiii alden, It's time to water your plant: Alang Alang - Imperata cylindrica",36,0,2024-06-21 18:00:11.753,2024-06-21 18:00:11.753,87
+51,Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Alang Alang - Imperata cylindrica",14,1,2024-06-21 18:00:15.053,2024-06-21 22:15:33.466,87
+52,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Alang alang-Imperata cylindrica",14,1,2024-06-22 03:00:04.571,2024-06-22 03:22:34.146,81
+53,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Alang alang-Imperata cylindrica",14,1,2024-06-22 04:00:02.671,2024-06-22 13:55:05.171,81
+54,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Alang alang-Imperata cylindrica",14,1,2024-06-22 04:00:06.071,2024-06-22 16:08:56.011,81
+55,Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Lavender - Lamiaceae",14,1,2024-06-22 14:00:00.135,2024-06-22 16:16:11.382,63
+56,Watering Reminder,"Hiii dumy akun, It's time to water your plant: Lavender - Lamiaceae",28,0,2024-06-22 14:00:00.227,2024-06-22 14:00:00.227,63
+57,Watering Reminder,"Hiii reihan, It's time to water your plant: Lavender - Lamiaceae",32,0,2024-06-22 14:00:00.308,2024-06-22 14:00:00.308,63
+58,Watering Reminder,"Hiii alden, It's time to water your plant: Lavender - Lamiaceae",36,0,2024-06-22 14:00:00.380,2024-06-22 14:00:00.380,63
+59,Watering Reminder,"Hiii zidan, It's time to water your plant: Lavender - Lamiaceae",37,0,2024-06-22 14:00:00.470,2024-06-22 14:00:00.470,63
+60,Watering Reminder,"Hiii testing, It's time to water your plant: Lavender - Lamiaceae",33,1,2024-06-22 14:00:00.553,2024-06-22 14:17:19.867,63
+61,Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Lavender - Lamiaceae",14,1,2024-06-22 14:00:00.665,2024-06-22 15:57:39.836,63
+62,Watering Reminder,"Hiii dumy akun, It's time to water your plant: Lavender - Lamiaceae",28,0,2024-06-22 14:00:00.764,2024-06-22 14:00:00.764,63
+63,Watering Reminder,"Hiii reihan, It's time to water your plant: Lavender - Lamiaceae",32,0,2024-06-22 14:00:00.852,2024-06-22 14:00:00.852,63
+64,Watering Reminder,"Hiii alden, It's time to water your plant: Lavender - Lamiaceae",36,0,2024-06-22 14:00:00.924,2024-06-22 14:00:00.924,63
+65,Watering Reminder,"Hiii zidan, It's time to water your plant: Lavender - Lamiaceae",37,0,2024-06-22 14:00:01.015,2024-06-22 14:00:01.015,63
+66,Watering Reminder,"Hiii testing, It's time to water your plant: Lavender - Lamiaceae",33,1,2024-06-22 14:00:01.109,2024-06-22 14:17:10.623,63
+67,Customize Watering Reminder,"Hiii testing, It's time to water your plant: Lavender - Lamiaceae",33,1,2024-06-22 15:00:00.158,2024-06-22 16:47:40.460,63
+68,Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Basil - Lamiaceae",14,1,2024-06-22 15:00:00.194,2024-06-22 16:07:03.628,64
+69,Customize Watering Reminder,"Hiii testing, It's time to water your plant: Lavender - Lamiaceae",33,0,2024-06-22 15:00:00.307,2024-06-22 15:00:00.307,63
+70,Watering Reminder,"Hiii dumy akun, It's time to water your plant: Basil - Lamiaceae",28,0,2024-06-22 15:00:00.378,2024-06-22 15:00:00.378,64
+71,Customize Watering Reminder,"Hiii testing, It's time to water your plant: Lavender - Lamiaceae",33,0,2024-06-22 15:00:00.432,2024-06-22 15:00:00.432,63
+72,Watering Reminder,"Hiii testing, It's time to water your plant: Basil - Lamiaceae",33,0,2024-06-22 15:00:00.457,2024-06-22 15:00:00.457,64
+73,Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Basil - Lamiaceae",14,1,2024-06-22 15:00:00.548,2024-06-22 16:15:20.376,64
+74,Watering Reminder,"Hiii dumy akun, It's time to water your plant: Basil - Lamiaceae",28,0,2024-06-22 15:00:00.651,2024-06-22 15:00:00.651,64
+75,Watering Reminder,"Hiii testing, It's time to water your plant: Basil - Lamiaceae",33,0,2024-06-22 15:00:00.737,2024-06-22 15:00:00.737,64
+76,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Lavender - Lamiaceae",14,0,2024-06-22 17:00:00.093,2024-06-22 17:00:00.093,63
+77,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Basil - Lamiaceae",14,0,2024-06-22 17:00:00.191,2024-06-22 17:00:00.191,64
+78,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Basil - Lamiaceae",14,0,2024-06-22 17:00:00.258,2024-06-22 17:00:00.258,64
+79,Customize Watering Reminder,"Hiii Dafa Aldian, It's time to water your plant: Lavender - Lamiaceae",14,0,2024-06-22 17:00:00.335,2024-06-22 17:00:00.335,63
