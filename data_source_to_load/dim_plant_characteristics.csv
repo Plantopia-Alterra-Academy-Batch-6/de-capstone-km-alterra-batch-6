@@ -1,9 +1,5 @@
 plant_characteristic_id,height,height_unit,wide,wide_unit,leaf_color
 61,3,Meter,300,Centimeter,Red
-<<<<<<< HEAD
-62,2,Meter,1,Meter,Green
-=======
->>>>>>> 38e78ae (Add README.md)
 63,600,Centimeter,900,Centimeter,Green
 64,400,Centimeter,300,Centimeter,Green
 65,200,Centimeter,300,Centimeter,Green
@@ -24,50 +20,24 @@ plant_characteristic_id,height,height_unit,wide,wide_unit,leaf_color
 134,50,Meter,15,Meter,Green
 160,3,Meter,300,Centimeter,Red
 162,3,Meter,300,Centimeter,Red
-<<<<<<< HEAD
-164,100,Centimeter,50,Centimeter,Green
-165,100,Centimeter,50,Centimeter,Green
 166,60,Centimeter,90,Centimeter,Green
-167,100,Centimeter,50,Centimeter,Green
-168,100,Centimeter,50,Centimeter,Green
-169,100,Centimeter,50,Centimeter,Green
-=======
-166,60,Centimeter,90,Centimeter,Green
->>>>>>> 38e78ae (Add README.md)
 170,350,Centimeter,100,Meter,Green
 171,60,Centimeter,40,Centimeter,Green
 172,1,Meter,4,Centimeter,Green
 174,20,Centimeter,30,Centimeter,Green
-<<<<<<< HEAD
-175,100,Centimeter,50,Centimeter,Green
 177,1,Centimeter,1,Centimeter,Green
-178,100,Centimeter,50,Centimeter,Green
-=======
-177,1,Centimeter,1,Centimeter,Green
->>>>>>> 38e78ae (Add README.md)
 180,100,Centimeter,30,Centimeter,Green
 181,100,Centimeter,30,Centimeter,Green
 182,1,Meter,1,Meter,Yellow
 186,1,Meter,1,Meter,Yellow
-<<<<<<< HEAD
-187,100,Centimeter,50,Centimeter,Green
-=======
->>>>>>> 38e78ae (Add README.md)
 188,60,Centimeter,90,Centimeter,Green
 189,400,Centimeter,300,Centimeter,Green
 190,500,Centimeter,400,Centimeter,Green
 191,45,Centimeter,40,Centimeter,Green
-<<<<<<< HEAD
-192,100,Centimeter,50,Centimeter,Green
-=======
->>>>>>> 38e78ae (Add README.md)
 193,3,Meter,300,Centimeter,Red
 194,1,Centimeter,1,Centimeter,Green
 195,400,Centimeter,300,Centimeter,Green
 196,60,Centimeter,90,Centimeter,Green
-<<<<<<< HEAD
-197,100,Centimeter,50,Centimeter,Green
-=======
 198,3,Meter,300,Centimeter,Red
 199,3,Meter,300,Centimeter,Red
 200,20,Centimeter,30,Centimeter,Green
@@ -93,4 +63,5 @@ plant_characteristic_id,height,height_unit,wide,wide_unit,leaf_color
 228,3,Meter,300,Centimeter,Red
 229,100,centimeter,5,centimeter,Green
 230,100,centimeter,5,centimeter,Green
->>>>>>> 38e78ae (Add README.md)
+231,60,Centimeter,90,Centimeter,Green
+233,60,Centimeter,90,Centimeter,Green

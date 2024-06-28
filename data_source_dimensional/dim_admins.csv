@@ -5,7 +5,4 @@ id,name,email,password,url_image,created_at,updated_at
 4,adminFe,adminfe123@gmail.com,$2a$08$OY4lskcKiJO7zldb.n5t2u7KHYtVBKt9zzR96ZqpsEl3VDhg5ZWYe,,2024-06-15 03:50:19.301,2024-06-15 03:50:19.301
 5,adminQE,adminqe@gmail.com,$2a$08$I4BJHANAH904vciSG1UlQuTp.VvkCbpRiPkNPzTL7s7WwdbKXi4ZG,,2024-06-19 11:55:46.715,2024-06-19 11:55:46.715
 6,adminFe Roni,adminroni@gmail.com,$2a$08$kghC2frPMCQ/IPr74MXc2.RMUs.35UT8esSFkfnVO/0xKhnwIeZBa,,2024-06-19 11:59:45.977,2024-06-19 11:59:45.977
-<<<<<<< HEAD
-=======
 7,Anggita Darmawan,anggitadarmawan4@gmail.com,$2a$08$NmTQf8ODMJwZEcVsMPX01u7Eg9bY9crhcAvfKscay9KIA/iUx/cGO,,2024-06-25 13:36:49.489,2024-06-25 13:36:49.489
->>>>>>> 38e78ae (Add README.md)

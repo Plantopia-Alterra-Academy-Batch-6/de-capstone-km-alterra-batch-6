@@ -1,11 +1,5 @@
 watering_history_id,user_name,plant_name,created_at,updated_at
-<<<<<<< HEAD
-7,Octaviano Ryan Eka Putra Hartanto,Tomato,2024-06-18 10:28:04.543,2024-06-18 10:28:04.543
 8,Dafa Aldian,Rafflesia,2024-06-19 10:29:26.651,2024-06-19 10:29:26.651
-9,Dafa Aldian,Tomato,2024-06-20 10:31:07.591,2024-06-20 10:31:07.591
-=======
-8,Dafa Aldian,Rafflesia,2024-06-19 10:29:26.651,2024-06-19 10:29:26.651
->>>>>>> 38e78ae (Add README.md)
 10,Dafa Aldian,Alang Alang,2024-06-21 22:00:50.737,2024-06-21 22:00:50.737
 11,Dafa Aldian,Alang Alang,2024-06-21 22:05:20.790,2024-06-21 22:05:20.790
 12,Dafa Aldian,Alang Alang,2024-06-21 22:06:03.199,2024-06-21 22:06:03.199
@@ -17,13 +11,7 @@ watering_history_id,user_name,plant_name,created_at,updated_at
 18,Dafa Aldian,Alang Alang,2024-06-22 14:10:12.371,2024-06-22 14:10:12.371
 19,testing,Lavender,2024-06-22 14:11:57.099,2024-06-22 14:11:57.099
 20,testing,Lavender,2024-06-22 14:17:20.217,2024-06-22 14:17:20.217
-<<<<<<< HEAD
-21,Octaviano Ryan Eka Putra Hartanto,Tomato,2024-06-22 15:10:10.606,2024-06-22 15:10:10.606
 22,Octaviano Ryan Eka Putra Hartanto,Durian,2024-06-22 15:11:07.342,2024-06-22 15:11:07.342
-23,Octaviano Ryan Eka Putra Hartanto,Tomato,2024-06-22 15:16:20.901,2024-06-22 15:16:20.901
-=======
-22,Octaviano Ryan Eka Putra Hartanto,Durian,2024-06-22 15:11:07.342,2024-06-22 15:11:07.342
->>>>>>> 38e78ae (Add README.md)
 24,Dafa Aldian,Lavender,2024-06-22 15:48:23.539,2024-06-22 15:48:23.539
 25,Dafa Aldian,Lavender,2024-06-22 15:50:37.583,2024-06-22 15:50:37.583
 26,Dafa Aldian,Lavender,2024-06-22 15:51:52.184,2024-06-22 15:51:52.184
@@ -38,8 +26,6 @@ watering_history_id,user_name,plant_name,created_at,updated_at
 35,Dafa Aldian,Alang Alang,2024-06-22 16:08:56.659,2024-06-22 16:08:56.659
 36,Dafa Aldian,Basil,2024-06-22 16:09:04.313,2024-06-22 16:09:04.313
 37,testing,Lavender,2024-06-22 16:47:40.946,2024-06-22 16:47:40.946
-<<<<<<< HEAD
-=======
 38,Dafa Aldian,Lavender,2024-06-22 20:46:18.267,2024-06-22 20:46:18.267
 39,Dafa Aldian,Basil,2024-06-22 20:52:27.183,2024-06-22 20:52:27.183
 40,Octaviano Ryan Eka Putra Hartanto,Orchid,2024-06-23 02:40:04.887,2024-06-23 02:40:04.887
@@ -111,4 +97,14 @@ watering_history_id,user_name,plant_name,created_at,updated_at
 125,dumy akun,Orchid,2024-06-26 14:56:18.200,2024-06-26 14:56:18.200
 126,dumy akun,Rafflesia,2024-06-26 15:31:24.755,2024-06-26 15:31:24.755
 127,Octaviano Ryan Eka Putra Hartanto,Alang Alang,2024-06-27 05:55:55.537,2024-06-27 05:55:55.537
->>>>>>> 38e78ae (Add README.md)
+128,annisa,Rafflesia,2024-06-28 01:49:49.347,2024-06-28 01:49:49.347
+129,annisa,Rafflesia,2024-06-28 01:49:51.954,2024-06-28 01:49:51.954
+130,annisa,Chili,2024-06-28 02:03:53.105,2024-06-28 02:03:53.105
+131,Rizky Flutter,Rafflesia,2024-06-28 07:27:56.490,2024-06-28 07:27:56.490
+132,dumy akun,Basil,2024-06-28 11:48:20.103,2024-06-28 11:48:20.103
+133,reihan,Basil,2024-06-28 12:04:25.259,2024-06-28 12:04:25.259
+134,reihan,Basil,2024-06-28 12:04:32.660,2024-06-28 12:04:32.660
+135,dumy akun,Basil,2024-06-28 12:20:10.606,2024-06-28 12:20:10.606
+136,zidan,Lavender,2024-06-28 12:43:25.713,2024-06-28 12:43:25.713
+137,zidan,Lavender,2024-06-28 12:43:28.215,2024-06-28 12:43:28.215
+138,zidan,Lavender,2024-06-28 12:43:30.441,2024-06-28 12:43:30.441
