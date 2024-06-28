@@ -1,4 +1,5 @@
 plant_faqs_id,question,answer,created_at,updated_at
+<<<<<<< HEAD
 104,Recommendation for fertilizer types and amounts based on user preference and plant type?,Apply a rose-specific fertilizer with balanced nutrients and additional micronutrients to promote healthy blooms and foliage in roses.,2024-06-18 05:33:37.917,2024-06-18 05:33:37.917
 105,Recommendation for safe pest control to address plant pest issues?,Use organic sprays like insecticidal soap or horticultural oil to control pests such as aphids and mites on rose plants.,2024-06-18 05:33:37.917,2024-06-18 05:33:37.917
 106,How to prevent black spot on roses?,Ensure good air circulation around plants. Apply fungicidal spray early in the season.,2024-06-18 05:33:37.917,2024-06-18 05:33:37.917
@@ -25,10 +26,13 @@ plant_faqs_id,question,answer,created_at,updated_at
 159,What are some tips for improving durian fruit quality and yield?,"To improve durian fruit quality and yield, provide adequate sunlight, regular fertilization with balanced nutrients, proper pruning for airflow and fruiting, and pest and disease management.",2024-06-19 12:05:37.742,2024-06-19 12:05:37.742
 160,Can durian trees tolerate cold temperatures or frost?,"Durian trees are sensitive to cold temperatures and frost, so they are best suited for tropical climates with warm temperatures year-round.",2024-06-19 12:05:37.742,2024-06-19 12:05:37.742
 161,How can I propagate durian trees?,"Durian trees can be propagated from seeds, grafting, or air-layering. Seed propagation is common but may result in variability in fruit quality, while grafting ensures consistency in fruit characteristics.",2024-06-19 12:05:37.742,2024-06-19 12:05:37.742
+=======
+>>>>>>> 38e78ae (Add README.md)
 192,Recommendation for fertilizer types and amounts based on user preference and plant type?,"Apply a balanced fertilizer with equal parts nitrogen, phosphorus, and potassium to support healthy sunflower growth and flowering.",2024-06-20 08:11:24.175,2024-06-20 08:11:24.175
 193,Recommendation for safe pest control to address plant pest issues?,Protect sunflowers from pests like birds by covering heads with fine mesh netting as seeds mature.,2024-06-20 08:11:24.175,2024-06-20 08:11:24.175
 194,When is the best time to harvest sunflower seeds for eating?,Wait until the back of the sunflower head turns yellow and seeds are plump and firm.,2024-06-20 08:11:24.175,2024-06-20 08:11:24.175
 195,How to deter birds from eating sunflower seeds?,Cover sunflower heads with fine mesh netting as seeds mature. ,2024-06-20 08:11:24.175,2024-06-20 08:11:24.175
+<<<<<<< HEAD
 196,What are the recommendations for fertilizer types and amounts based on user preference and plant type?,"Apply a diluted, balanced liquid fertilizer once a month during the growing season.",2024-06-20 08:12:58.047,2024-06-20 08:12:58.047
 197,What are the recommendations for safe pest control to address pest issues?,Use a mild insecticidal soap or neem oil for pests like aphids and mealybugs.,2024-06-20 08:12:58.047,2024-06-20 08:12:58.047
 198,How do I propagate Aloe Vera?,Propagate Aloe Vera by separating offsets (pups) from the mother plant or by leaf cuttings placed in soil or water until roots develop.,2024-06-20 08:12:58.047,2024-06-20 08:12:58.047
@@ -38,6 +42,9 @@ plant_faqs_id,question,answer,created_at,updated_at
 203,Recommendation for safe pest control to address plant pest issues?,Use floating row covers to protect strawberries from insects or apply organic insecticides like neem oil for pests such as aphids and spider mites.,2024-06-20 09:36:10.429,2024-06-20 09:36:10.429
 204,When should strawberry plants be replaced?,Replace strawberry plants every 3-5 years to maintain productivity.,2024-06-20 09:36:10.429,2024-06-20 09:36:10.429
 205,How to protect strawberries from pests?,Use floating row covers to keep out insects or apply neem oil for pests like aphids and spider mites.  ,2024-06-20 09:36:10.429,2024-06-20 09:36:10.429
+=======
+200,idk,idk,2024-06-20 08:17:12.036,2024-06-20 08:17:12.036
+>>>>>>> 38e78ae (Add README.md)
 217,What are the recommendations for fertilizer types and amounts based on user preference and plant type?,"Use a balanced cactus fertilizer, diluted to half strength, once or twice during the growing season.",2024-06-20 17:38:27.218,2024-06-20 17:38:27.218
 218,What are the recommendations for safe pest control to address plant pest issues?,Use a mild insecticidal soap or neem oil for pests like scale insects and mealybugs.,2024-06-20 17:38:27.218,2024-06-20 17:38:27.218
 219,How do I propagate cactus?,"Propagate cactus by stem cuttings or offsets, allowing the cut ends to callus before planting.",2024-06-20 17:38:27.218,2024-06-20 17:38:27.218
@@ -48,6 +55,7 @@ plant_faqs_id,question,answer,created_at,updated_at
 224,Can orchids be grown indoors successfully?,"Yes, orchids thrive indoors with bright, indirect light and consistent care. Monitor humidity levels and air circulation.",2024-06-20 18:04:55.053,2024-06-20 18:04:55.053
 225, How do I encourage orchids to bloom more frequently?,"Ensure orchids receive proper light, temperature, and humidity conditions. Use a bloom booster fertilizer during the flowering season.",2024-06-20 18:04:55.053,2024-06-20 18:04:55.053
 230,tes,tes,2024-06-21 07:26:59.625,2024-06-21 07:26:59.625
+<<<<<<< HEAD
 242,What type of fertilizer is recommended for cucumber plants?,Use nitrogen-rich fertilizer to promote healthy vegetative growth in cucumber plants.,2024-06-22 04:06:35.868,2024-06-22 04:06:35.868
 243,Recommendation for fertilizer types and amounts based on user preference and plant type?,Use a balanced fertilizer with higher nitrogen content to support vigorous vine growth and fruit development in cucumbers.,2024-06-22 04:06:35.868,2024-06-22 04:06:35.868
 244,Recommendation for safe pest control to address plant pest issues?,Use floating row covers to protect cucumbers from pests like cucumber beetles or apply diatomaceous earth as a natural pest deterrent.,2024-06-22 04:06:35.868,2024-06-22 04:06:35.868
@@ -69,3 +77,63 @@ plant_faqs_id,question,answer,created_at,updated_at
 264,Recommendation for safe pest control to address plant pest issues?,Use neem oil or insecticidal soap to manage common pests like aphids and whiteflies.,2024-06-22 11:48:22.349,2024-06-22 11:48:22.349
 265,How to improve tomato flavor?,"Provide ample sunlight, avoid over-fertilization with nitrogen, and allow tomatoes to fully ripen on the vine.",2024-06-22 11:48:22.349,2024-06-22 11:48:22.349
 266,How to prevent blossom end rot in tomatoes?,Blossom end rot is caused by calcium deficiency or inconsistent watering. Ensure soil calcium levels are adequate and maintain even moisture levels.,2024-06-22 11:48:22.349,2024-06-22 11:48:22.349
+=======
+255,...,...,2024-06-22 04:23:50.437,2024-06-22 04:23:50.437
+269,Recommendation for fertilizer types and amounts based on user preference and plant type?,Use a balanced fertilizer high in phosphorus before flowering to promote healthy fruit production in strawberries.,2024-06-23 06:27:27.724,2024-06-23 06:27:27.724
+270,Recommendation for safe pest control to address plant pest issues?,Use floating row covers to protect strawberries from insects or apply organic insecticides like neem oil for pests such as aphids and spider mites.,2024-06-23 06:27:27.724,2024-06-23 06:27:27.724
+271,When should strawberry plants be replaced?,Replace strawberry plants every 3-5 years to maintain productivity.,2024-06-23 06:27:27.724,2024-06-23 06:27:27.724
+272,How to protect strawberries from pests?,Use floating row covers to keep out insects or apply neem oil for pests like aphids and spider mites.  ,2024-06-23 06:27:27.724,2024-06-23 06:27:27.724
+273,Recommendation for fertilizer types and amounts based on user preference and plant type?,Apply a rose-specific fertilizer with balanced nutrients and additional micronutrients to promote healthy blooms and foliage in roses.,2024-06-23 06:28:20.703,2024-06-23 06:28:20.703
+274,Recommendation for safe pest control to address plant pest issues?,Use organic sprays like insecticidal soap or horticultural oil to control pests such as aphids and mites on rose plants.,2024-06-23 06:28:20.703,2024-06-23 06:28:20.703
+275,How to prevent black spot on roses?,Ensure good air circulation around plants. Apply fungicidal spray early in the season.,2024-06-23 06:28:20.703,2024-06-23 06:28:20.703
+276,What type of fertilizer is recommended for cucumber plants?,Use nitrogen-rich fertilizer to promote healthy vegetative growth in cucumber plants.,2024-06-23 06:33:58.506,2024-06-23 06:33:58.506
+277,Recommendation for fertilizer types and amounts based on user preference and plant type?,Use a balanced fertilizer with higher nitrogen content to support vigorous vine growth and fruit development in cucumbers.,2024-06-23 06:33:58.506,2024-06-23 06:33:58.506
+278,Recommendation for safe pest control to address plant pest issues?,Use floating row covers to protect cucumbers from pests like cucumber beetles or apply diatomaceous earth as a natural pest deterrent.,2024-06-23 06:33:58.506,2024-06-23 06:33:58.506
+279,How to deal with pests on cucumber plants?,What type of fertilizer is recommended for cucumber plants?,2024-06-23 06:33:58.506,2024-06-23 06:33:58.506
+280,What are the recommendations for fertilizer types and amounts based on user preference and plant type?,"Apply a balanced, water-soluble fertilizer every 4-6 weeks during the growing season.",2024-06-23 06:35:56.707,2024-06-23 06:35:56.707
+281,What are the recommendations for safe pest control to address pest issues?,Use organic insecticidal soap or neem oil to manage common pests like aphids and spider mites.,2024-06-23 06:35:56.707,2024-06-23 06:35:56.707
+282,What are common diseases that affect geraniums?,Watch for diseases like powdery mildew; ensure good air circulation and avoid overhead watering.,2024-06-23 06:35:56.707,2024-06-23 06:35:56.707
+283,How do I propagate geraniums effectively?,Propagate geraniums from stem cuttings in early summer or by division of mature plants.,2024-06-23 06:35:56.707,2024-06-23 06:35:56.707
+284,What are the recommendations for fertilizer types and amounts based on user preference and plant type?,Apply a citrus-specific fertilizer every 6 weeks from spring through fall.,2024-06-23 06:37:35.608,2024-06-23 06:37:35.608
+285,What are the recommendations for safe pest control to address pest issues?,"Use horticultural oil or neem oil to control pests like aphids, scale, and spider mites.",2024-06-23 06:37:35.608,2024-06-23 06:37:35.608
+286,When is the best time to prune lemon trees for fruit production?,Prune lemon trees lightly after harvesting fruit and more significantly in late winter before new growth begins.,2024-06-23 06:37:35.608,2024-06-23 06:37:35.608
+287,How do I protect lemon trees from pests and diseases?,Monitor for pests like aphids and scale insects; treat with neem oil or insecticidal soap as needed.,2024-06-23 06:37:35.608,2024-06-23 06:37:35.608
+288,What are the recommendations for fertilizer types and amounts based on user preference and plant type?,"Use a balanced fertilizer with a 6-6-6 or 8-3-9 ratio, applying it three times a year (spring, summer, and fall).",2024-06-23 06:44:54.907,2024-06-23 06:44:54.907
+289,What are the recommendations for safe pest control to address pest issues?,Use neem oil or insecticidal soap to manage pests like aphids and mealybugs.,2024-06-23 06:44:54.907,2024-06-23 06:44:54.907
+290,When is the best time to prune mango trees for fruit production?,Prune mango trees lightly after harvesting fruit and more significantly in late winter before new growth begins.,2024-06-23 06:44:54.907,2024-06-23 06:44:54.907
+291,How do I protect mango trees from pests and diseases?,Monitor for pests like mango leafhoppers and mango scale; treat with neem oil or insecticidal soap as needed.,2024-06-23 06:44:54.907,2024-06-23 06:44:54.907
+292,bagaimana cara alang alang tumbuh,yntkts,2024-06-23 06:48:58.805,2024-06-23 06:48:58.805
+294,Bagaimana cara alang alang dapat tumbuh tanpa dirawat,alang alang merupakan tanaman liar dan dapat bertahan dengan air yang sedikit,2024-06-23 06:57:13.241,2024-06-23 06:57:13.241
+295,How to care for alang-alang," While it is drought-resistant once established, regular watering helps promote healthy growth, especially during dry spells.",2024-06-23 06:58:33.212,2024-06-23 06:58:33.212
+296,Recommendation for fertilizer types and amounts based on user preference and plant type?,Use a well-balanced fertilizer during the growing season to support rosemary's aromatic leaf growth without stimulating excessive flowering.,2024-06-23 07:05:15.109,2024-06-23 07:05:15.109
+297,Recommendation for safe pest control to address plant pest issues?,Use insecticidal soap or neem oil to control pests like spider mites and aphids on rosemary plants.,2024-06-23 07:05:15.109,2024-06-23 07:05:15.109
+298,What are common pests of rosemary?,Look out for spider mites and aphids. Use insecticidal soap or neem oil to control infestations.,2024-06-23 07:05:15.109,2024-06-23 07:05:15.109
+299,How to propagate rosemary plants?,Propagate rosemary from cuttings taken in spring or early summer.,2024-06-23 07:05:15.109,2024-06-23 07:05:15.109
+300,What is the best time to plant durian trees?,"The best time to plant durian trees is during the rainy season or in the early stages of the wet season, as they require ample moisture for root establishment.",2024-06-23 07:08:08.703,2024-06-23 07:08:08.703
+301,How often should I water my durian tree?,"Durian trees should be watered regularly, especially during dry periods, to keep the soil consistently moist but not waterlogged.",2024-06-23 07:08:08.703,2024-06-23 07:08:08.703
+302,What type of soil is best for durian cultivation?,Durian trees prefer well-draining soil with a slightly acidic to neutral pH (around 5.5 to 6.5). Sandy loam or loamy soils with good fertility are ideal.,2024-06-23 07:08:08.703,2024-06-23 07:08:08.703
+303,How long does it take for a durian tree to bear fruit?,"Durian trees typically start bearing fruit around 5 to 7 years after planting, although this can vary depending on the variety and growing conditions.",2024-06-23 07:08:08.703,2024-06-23 07:08:08.703
+304,"What are common pests and diseases that affect durian trees, and how can they be managed?","Common pests of durian trees include fruit borers, mealybugs, and scale insects, while diseases like anthracnose and powdery mildew can also occur. Integrated pest management (IPM) practices, proper sanitation, and fungicide applications can help manage these issues.",2024-06-23 07:08:08.703,2024-06-23 07:08:08.703
+305,What are some tips for improving durian fruit quality and yield?,"To improve durian fruit quality and yield, provide adequate sunlight, regular fertilization with balanced nutrients, proper pruning for airflow and fruiting, and pest and disease management.",2024-06-23 07:08:08.703,2024-06-23 07:08:08.703
+306,Can durian trees tolerate cold temperatures or frost?,"Durian trees are sensitive to cold temperatures and frost, so they are best suited for tropical climates with warm temperatures year-round.",2024-06-23 07:08:08.703,2024-06-23 07:08:08.703
+307,How can I propagate durian trees?,"Durian trees can be propagated from seeds, grafting, or air-layering. Seed propagation is common but may result in variability in fruit quality, while grafting ensures consistency in fruit characteristics.",2024-06-23 07:08:08.703,2024-06-23 07:08:08.703
+312,Question 1,Answer 1,2024-06-23 16:21:07.336,2024-06-23 16:21:07.336
+313,Question 2,Answer 2,2024-06-23 16:21:07.336,2024-06-23 16:21:07.336
+314,Question 3,Answer 3,2024-06-23 16:21:07.336,2024-06-23 16:21:07.336
+326,Recommendation for fertilizer types and amounts based on user preference and plant type?,Use a balanced liquid fertilizer like 10-10-10 diluted to half strength every 2-3 weeks during the growing season.  ,2024-06-24 02:39:41.400,2024-06-24 02:39:41.400
+327,Recommendation for safe pest control to address plant pest issues?,"Use diatomaceous earth around the base of plants to deter slugs and snails. For aphids, a strong spray of water can dislodge them. ",2024-06-24 02:39:41.400,2024-06-24 02:39:41.400
+328,How often should basil be harvested? How often should basil be harvested?,Basil should be harvested regularly by pinching off leaves to encourage continuous growth and prevent flowering.,2024-06-24 02:39:41.400,2024-06-24 02:39:41.400
+331,Recommendation for fertilizer types and amounts based on user preference and plant type?,"Use a slow-release fertilizer with a higher ratio of phosphorus (e.g., 5-10-5) to encourage blooming.",2024-06-24 07:29:46.386,2024-06-24 07:29:46.386
+332,Recommendation for safe pest control to address plant pest issues?,Introduce beneficial insects like ladybugs to control aphids. Use horticultural oil for scale insects.,2024-06-24 07:29:46.386,2024-06-24 07:29:46.386
+333,Can lavender be grown indoors?,Lavender can be grown indoors in containers with adequate sunlight and well draining soil.,2024-06-24 07:29:46.386,2024-06-24 07:29:46.386
+334,How often should lavender be pruned?,Lavender should be lightly pruned after flowering to maintain shape and promote new growth.,2024-06-24 07:29:46.386,2024-06-24 07:29:46.386
+336,What are the recommendations for fertilizer types and amounts based on user preference and plant type?,"Apply a diluted, balanced liquid fertilizer once a month during the growing season.",2024-06-26 14:09:03.975,2024-06-26 14:09:03.975
+337,What are the recommendations for safe pest control to address pest issues?,Use a mild insecticidal soap or neem oil for pests like aphids and mealybugs.,2024-06-26 14:09:03.975,2024-06-26 14:09:03.975
+338,How do I propagate Aloe Vera?,Propagate Aloe Vera by separating offsets (pups) from the mother plant or by leaf cuttings placed in soil or water until roots develop.,2024-06-26 14:09:03.975,2024-06-26 14:09:03.975
+339,Can Aloe Vera tolerate low light conditions?," Aloe Vera prefers bright light but can tolerate some shade. However, it may not thrive in low light environments.",2024-06-26 14:09:03.975,2024-06-26 14:09:03.975
+341,Mau tanya apa,Ya gatauu?,2024-06-27 00:41:08.765,2024-06-27 00:41:08.765
+342,Question 1,Answer 1,2024-06-27 06:59:07.474,2024-06-27 06:59:07.474
+343,Question 2,Answer 2,2024-06-27 06:59:07.474,2024-06-27 06:59:07.474
+344,Question 1,Answer 1,2024-06-27 07:07:55.147,2024-06-27 07:07:55.147
+345,Question 2,Answer 2,2024-06-27 07:07:55.147,2024-06-27 07:07:55.147
+>>>>>>> 38e78ae (Add README.md)

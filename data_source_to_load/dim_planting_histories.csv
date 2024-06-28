@@ -20,7 +20,10 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 20,developer,Rose Update,Fruits,2024-06-17 19:49:09.339,2024-06-17 19:49:09.339
 21,developer,Rose Update,Fruits,2024-06-17 22:23:05.492,2024-06-17 22:23:05.492
 22,Dafa Aldian,Cucumber,Fruits,2024-06-18 06:23:26.279,2024-06-18 06:23:26.279
+<<<<<<< HEAD
 24,Dafa Aldian,Tomato,Fruits,2024-06-18 07:15:11.115,2024-06-18 07:15:11.115
+=======
+>>>>>>> 38e78ae (Add README.md)
 25,Dafa Aldian,Rafflesia,Conifers,2024-06-18 07:15:21.815,2024-06-18 07:15:21.815
 26,Dafa Aldian,Lavender,Shrubs,2024-06-18 07:15:26.827,2024-06-18 07:15:26.827
 27,Dafa Aldian,Basil,Herbs,2024-06-18 07:15:32.480,2024-06-18 07:15:32.480
@@ -28,12 +31,17 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 29,dumy akun,Rafflesia,Conifers,2024-06-18 09:40:28.139,2024-06-18 09:40:28.139
 30,developer,Lemon,Fruits,2024-06-18 09:52:31.563,2024-06-18 09:52:31.563
 31,developer,Chili,Fruits,2024-06-18 14:17:37.650,2024-06-18 14:17:37.650
+<<<<<<< HEAD
 32,annisa,Tomato,Fruits,2024-06-18 15:23:12.000,2024-06-18 15:23:12.000
 33,annisa,Tomato,Fruits,2024-06-18 15:23:12.271,2024-06-18 15:23:12.271
 34,developer,Tomato,Fruits,2024-06-18 16:52:20.517,2024-06-18 16:52:20.517
 35,developer,Rafflesia,Conifers,2024-06-18 16:52:34.789,2024-06-18 16:52:34.789
 36,dumy akun,Lavender,Shrubs,2024-06-18 20:23:01.241,2024-06-18 20:23:01.241
 37,dumy akun,Tomato,Fruits,2024-06-18 20:23:07.392,2024-06-18 20:23:07.392
+=======
+35,developer,Rafflesia,Conifers,2024-06-18 16:52:34.789,2024-06-18 16:52:34.789
+36,dumy akun,Lavender,Shrubs,2024-06-18 20:23:01.241,2024-06-18 20:23:01.241
+>>>>>>> 38e78ae (Add README.md)
 38,dumy akun,Strawberry,Fruits,2024-06-18 20:23:13.277,2024-06-18 20:23:13.277
 39,dumy akun,Cucumber,Fruits,2024-06-18 20:23:22.041,2024-06-18 20:23:22.041
 40,annisa,Rose,Shrubs,2024-06-19 02:56:46.933,2024-06-19 02:56:46.933
@@ -49,6 +57,7 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 50,Dafa Aldian,Cucumber,Fruits,2024-06-19 11:02:34.712,2024-06-19 11:02:34.712
 51,Dafa Aldian,Alang Alang,Perennials,2024-06-19 11:02:46.091,2024-06-19 11:02:46.091
 52,Dafa Aldian,Chili,Fruits,2024-06-19 11:02:53.871,2024-06-19 11:02:53.871
+<<<<<<< HEAD
 53,reihan,Lavender,Shrubs,2024-06-19 17:16:07.891,2024-06-19 17:16:07.891
 54,chopper,Rafflesia,Conifers,2024-06-19 18:29:02.102,2024-06-19 18:29:02.102
 55,chopper,Tomato,Fruits,2024-06-19 18:34:42.475,2024-06-19 18:34:42.475
@@ -56,11 +65,16 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 57,alden,Lavender,Shrubs,2024-06-20 14:33:30.566,2024-06-20 14:33:30.566
 58,alden,Alang Alang,Perennials,2024-06-20 14:39:40.251,2024-06-20 14:39:40.251
 59,testing,Tomato,Fruits,2024-06-20 16:46:27.069,2024-06-20 16:46:27.069
+=======
+>>>>>>> 38e78ae (Add README.md)
 60,testing,Strawberry,Fruits,2024-06-20 16:59:48.218,2024-06-20 16:59:48.218
 61,testing,Rafflesia,Conifers,2024-06-20 17:10:13.760,2024-06-20 17:10:13.760
 62,testing,Sunflower,Annual,2024-06-20 17:11:39.862,2024-06-20 17:11:39.862
 63,testing,Sunflower,Annual,2024-06-20 17:12:01.429,2024-06-20 17:12:01.429
+<<<<<<< HEAD
 64,zidan,Tomato,Fruits,2024-06-21 02:24:06.621,2024-06-21 02:24:06.621
+=======
+>>>>>>> 38e78ae (Add README.md)
 65,zidan,Lavender,Shrubs,2024-06-21 02:47:27.721,2024-06-21 02:47:27.721
 66,zidan,Orchid,Perennials,2024-06-21 07:06:25.709,2024-06-21 07:06:25.709
 67,dumy akun,Rafflesia,Conifers,2024-06-21 07:27:37.145,2024-06-21 07:27:37.145
@@ -68,9 +82,12 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 69,dumy akun,Geranium,Perennials,2024-06-21 07:45:14.130,2024-06-21 07:45:14.130
 70,dumy akun,Orchid,Perennials,2024-06-21 07:45:20.288,2024-06-21 07:45:20.288
 71,dumy akun,Cactus,Succulents,2024-06-21 07:46:20.314,2024-06-21 07:46:20.314
+<<<<<<< HEAD
 72,zidan,Tomato,Fruits,2024-06-21 08:05:01.663,2024-06-21 08:05:01.663
 73,dumy akun,Tomato,Fruits,2024-06-21 08:22:17.653,2024-06-21 08:22:17.653
 74,dumy akun,Tomato,Fruits,2024-06-21 08:22:20.479,2024-06-21 08:22:20.479
+=======
+>>>>>>> 38e78ae (Add README.md)
 75,dumy akun,Strawberry,Fruits,2024-06-21 08:22:23.794,2024-06-21 08:22:23.794
 76,dumy akun,Lemon,Fruits,2024-06-21 08:22:28.263,2024-06-21 08:22:28.263
 77,zidan,Rafflesia,Conifers,2024-06-21 09:13:02.579,2024-06-21 09:13:02.579
@@ -80,13 +97,19 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 81,testing,Sunflower,Annual,2024-06-21 12:33:54.640,2024-06-21 12:33:54.640
 82,Dafa Aldian,Rafflesia,Conifers,2024-06-21 13:35:59.943,2024-06-21 13:35:59.943
 83,Dafa Aldian,Alang Alang,Perennials,2024-06-21 13:36:06.808,2024-06-21 13:36:06.808
+<<<<<<< HEAD
 84,Dafa Aldian,Tomato,Fruits,2024-06-21 13:36:19.823,2024-06-21 13:36:19.823
+=======
+>>>>>>> 38e78ae (Add README.md)
 85,Dafa Aldian,Rosemary,Herbs,2024-06-21 13:36:40.927,2024-06-21 13:36:40.927
 86,Dafa Aldian,Sunflower,Annual,2024-06-21 13:36:54.107,2024-06-21 13:36:54.107
 87,annisa,Rafflesia,Conifers,2024-06-21 15:40:31.682,2024-06-21 15:40:31.682
 88,annisa,Basil,Herbs,2024-06-21 15:45:26.434,2024-06-21 15:45:26.434
 89,testing,Rafflesia,Conifers,2024-06-21 18:01:36.777,2024-06-21 18:01:36.777
+<<<<<<< HEAD
 90,testing,Tomato,Fruits,2024-06-21 18:01:41.884,2024-06-21 18:01:41.884
+=======
+>>>>>>> 38e78ae (Add README.md)
 91,testing,Lavender,Shrubs,2024-06-21 18:01:46.468,2024-06-21 18:01:46.468
 92,testing,Basil,Herbs,2024-06-21 18:01:51.488,2024-06-21 18:01:51.488
 93,testing,Strawberry,Fruits,2024-06-21 18:01:59.903,2024-06-21 18:01:59.903
@@ -112,6 +135,7 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 113,testing,Durian,Angiosperms,2024-06-22 05:19:37.254,2024-06-22 05:19:37.254
 114,testing,Cactus,Succulents,2024-06-22 05:19:45.200,2024-06-22 05:19:45.200
 115,testing,Test,Fruits,2024-06-22 05:19:53.810,2024-06-22 05:19:53.810
+<<<<<<< HEAD
 116,annisa,Tomato,Fruits,2024-06-22 14:27:33.047,2024-06-22 14:27:33.047
 117,annisa,Tomato,Fruits,2024-06-22 14:31:17.883,2024-06-22 14:31:17.883
 118,annisa,Tomato,Fruits,2024-06-22 14:33:09.452,2024-06-22 14:33:09.452
@@ -119,6 +143,10 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 120,Abraham Ismail,Strawberry,Fruits,2024-06-22 15:08:23.293,2024-06-22 15:08:23.293
 121,Abraham Ismail,Chili,Fruits,2024-06-22 15:09:06.405,2024-06-22 15:09:06.405
 122,Abraham Ismail,Tomato,Fruits,2024-06-22 15:09:16.190,2024-06-22 15:09:16.190
+=======
+120,Abraham Ismail,Strawberry,Fruits,2024-06-22 15:08:23.293,2024-06-22 15:08:23.293
+121,Abraham Ismail,Chili,Fruits,2024-06-22 15:09:06.405,2024-06-22 15:09:06.405
+>>>>>>> 38e78ae (Add README.md)
 123,Abraham Ismail,Aloe Vera,Succulents,2024-06-22 15:09:39.038,2024-06-22 15:09:39.038
 124,Abraham Ismail,Lavender,Shrubs,2024-06-22 15:09:50.339,2024-06-22 15:09:50.339
 125,Octaviano Ryan Eka Putra Hartanto,Orchid,Perennials,2024-06-22 15:10:00.960,2024-06-22 15:10:00.960
@@ -127,11 +155,71 @@ planting_history_id,user_name,plant_name,plant_category,created_at,updated_at
 128,Octaviano Ryan Eka Putra Hartanto,Alang Alang,Perennials,2024-06-22 16:07:47.816,2024-06-22 16:07:47.816
 129,dumy akun,Rafflesia,Conifers,2024-06-22 17:05:17.080,2024-06-22 17:05:17.080
 130,dumy akun,Rafflesia,Conifers,2024-06-22 17:05:46.740,2024-06-22 17:05:46.740
+<<<<<<< HEAD
 131,dumy akun,Tomato,Fruits,2024-06-22 17:05:57.349,2024-06-22 17:05:57.349
+=======
+>>>>>>> 38e78ae (Add README.md)
 132,dumy akun,Rafflesia,Conifers,2024-06-22 17:08:03.130,2024-06-22 17:08:03.130
 133,dumy akun,Rafflesia,Conifers,2024-06-22 17:09:51.708,2024-06-22 17:09:51.708
 134,dumy akun,Lavender,Shrubs,2024-06-22 17:11:03.552,2024-06-22 17:11:03.552
 135,dumy akun,Alang Alang,Perennials,2024-06-22 17:11:24.257,2024-06-22 17:11:24.257
 136,dumy akun,Basil,Herbs,2024-06-22 17:11:47.454,2024-06-22 17:11:47.454
+<<<<<<< HEAD
 137,dumy akun,Tomato,Fruits,2024-06-22 17:11:57.347,2024-06-22 17:11:57.347
 138,annisa,Tomato,Fruits,2024-06-22 19:42:32.952,2024-06-22 19:42:32.952
+=======
+139,Dafa Aldian,Rosemary,Herbs,2024-06-22 20:53:48.697,2024-06-22 20:53:48.697
+140,annisa,Basil,Herbs,2024-06-22 23:24:26.999,2024-06-22 23:24:26.999
+141,annisa,Lavender,Shrubs,2024-06-22 23:26:13.041,2024-06-22 23:26:13.041
+146,annisa,Lavender,Shrubs,2024-06-23 10:16:45.883,2024-06-23 10:16:45.883
+149,developer,Aloe Vera,Succulents,2024-06-23 12:56:46.071,2024-06-23 12:56:46.071
+150,developer,Basil,Herbs,2024-06-23 12:56:54.765,2024-06-23 12:56:54.765
+151,developer,Durian,Angiosperms,2024-06-23 12:57:08.441,2024-06-23 12:57:08.441
+154,Rizky Flutter,Rafflesia,Conifers,2024-06-23 17:18:17.302,2024-06-23 17:18:17.302
+156,Rizky Flutter,Basil,Herbs,2024-06-23 17:18:53.504,2024-06-23 17:18:53.504
+157,Rizky Flutter,Rose,Shrubs,2024-06-23 17:19:02.655,2024-06-23 17:19:02.655
+158,Rizky Flutter,Orchid,Perennials,2024-06-23 17:19:11.376,2024-06-23 17:19:11.376
+159,Rizky Flutter,Sunflower,Annual,2024-06-23 17:19:25.290,2024-06-23 17:19:25.290
+160,Rizky Flutter,Lavender,Shrubs,2024-06-23 17:19:32.350,2024-06-23 17:19:32.350
+161,Rizky Flutter,Strawberry,Fruits,2024-06-23 17:19:42.221,2024-06-23 17:19:42.221
+162,Rizky Flutter,Strawberry,Fruits,2024-06-23 17:19:42.514,2024-06-23 17:19:42.514
+163,Rizky Flutter,Cucumber,Fruits,2024-06-23 17:19:56.080,2024-06-23 17:19:56.080
+164,Rizky Flutter,Lemon,Fruits,2024-06-23 17:32:26.288,2024-06-23 17:32:26.288
+165,Rizky Flutter,Carrot,Fruits,2024-06-23 17:32:56.824,2024-06-23 17:32:56.824
+166,Dafa Aldian,Alang Alang,Perennials,2024-06-23 18:03:12.997,2024-06-23 18:03:12.997
+167,Dafa Aldian,Alang Alang,Perennials,2024-06-23 18:17:40.745,2024-06-23 18:17:40.745
+168,Dafa Aldian,Lavender,Shrubs,2024-06-23 18:35:52.195,2024-06-23 18:35:52.195
+170,annisa,Rafflesia,Conifers,2024-06-23 23:45:55.020,2024-06-23 23:45:55.020
+171,annisa,Rafflesia,Conifers,2024-06-23 23:46:02.780,2024-06-23 23:46:02.780
+172,annisa,Basil,Herbs,2024-06-23 23:46:07.852,2024-06-23 23:46:07.852
+173,annisa,Strawberry,Fruits,2024-06-23 23:51:33.067,2024-06-23 23:51:33.067
+174,annisa,Rose,Shrubs,2024-06-23 23:53:38.050,2024-06-23 23:53:38.050
+175,annisa,Geranium,Perennials,2024-06-23 23:58:11.522,2024-06-23 23:58:11.522
+176,Dafa Aldian,Alang Alang,Perennials,2024-06-24 00:00:54.916,2024-06-24 00:00:54.916
+177,annisa,Alang Alang,Perennials,2024-06-24 00:03:27.899,2024-06-24 00:03:27.899
+178,Dafa Aldian,Basil,Herbs,2024-06-24 00:26:57.483,2024-06-24 00:26:57.483
+179,Dafa Aldian,Durian,Angiosperms,2024-06-24 00:29:11.325,2024-06-24 00:29:11.325
+180,annisa,Aloe Vera,Succulents,2024-06-24 00:51:17.781,2024-06-24 00:51:17.781
+181,Rizky Flutter,Mango Tree,Fruits,2024-06-24 00:56:44.750,2024-06-24 00:56:44.750
+182,Rizky Flutter,Rafflesia,Conifers,2024-06-24 01:52:36.367,2024-06-24 01:52:36.367
+183,Rizky Flutter,Alang Alang,Perennials,2024-06-24 02:30:30.687,2024-06-24 02:30:30.687
+184,testing,Strawberry,Fruits,2024-06-24 02:56:09.162,2024-06-24 02:56:09.162
+185,Rizky Flutter,Mango Tree,Fruits,2024-06-24 02:58:51.684,2024-06-24 02:58:51.684
+186,Rizky Flutter,Alang Alang,Perennials,2024-06-24 03:05:28.987,2024-06-24 03:05:28.987
+190,Rizky Flutter,Aloe Vera,Succulents,2024-06-24 03:11:59.870,2024-06-24 03:11:59.870
+191,annisa,Lemon,Fruits,2024-06-24 03:31:05.123,2024-06-24 03:31:05.123
+192,annisa,Lemon,Fruits,2024-06-24 03:31:05.476,2024-06-24 03:31:05.476
+197,Hikmah Mufida MS,Rose,Shrubs,2024-06-24 05:11:34.938,2024-06-24 05:11:34.938
+198,Hikmah Mufida MS,Orchid,Perennials,2024-06-24 05:15:44.188,2024-06-24 05:15:44.188
+199,Hikmah Mufida MS,Sunflower,Annual,2024-06-24 05:25:43.779,2024-06-24 05:25:43.779
+200,Hikmah Mufida MS,Lavender,Shrubs,2024-06-24 05:31:13.847,2024-06-24 05:31:13.847
+201,Hikmah Mufida MS,Geranium,Perennials,2024-06-24 05:32:15.304,2024-06-24 05:32:15.304
+202,Hikmah Mufida MS,Geranium,Perennials,2024-06-24 05:32:15.542,2024-06-24 05:32:15.542
+203,Hikmah Mufida MS,Aloe Vera,Succulents,2024-06-24 05:33:07.083,2024-06-24 05:33:07.083
+208,Rizky Flutter,Alang Alang,Perennials,2024-06-24 07:34:14.238,2024-06-24 07:34:14.238
+209,Hikmah Mufida MS,Chili,Fruits,2024-06-26 07:06:44.795,2024-06-26 07:06:44.795
+210,Dafa Aldian,Lavender,Shrubs,2024-06-26 14:08:49.897,2024-06-26 14:08:49.897
+211,dumy akun,Orchid,Perennials,2024-06-26 14:53:37.937,2024-06-26 14:53:37.937
+212,dumy akun,Rafflesia,Conifers,2024-06-26 15:29:22.481,2024-06-26 15:29:22.481
+213,reihan,Rafflesia,Conifers,2024-06-27 06:58:36.951,2024-06-27 06:58:36.951
+>>>>>>> 38e78ae (Add README.md)

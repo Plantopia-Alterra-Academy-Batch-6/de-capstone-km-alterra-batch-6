@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 id,name,compostition,create_at,plant_id
+=======
+id,name,compostition,create_at,plant_id,updated_at
+>>>>>>> 38e78ae (Add README.md)

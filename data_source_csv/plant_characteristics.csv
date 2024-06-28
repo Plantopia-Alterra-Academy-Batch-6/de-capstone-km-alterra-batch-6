@@ -1,6 +1,9 @@
 id,plant_id,height,height_unit,wide,wide_unit,leaf_color
 61,61,3,Meter,300,Centimeter,Red
+<<<<<<< HEAD
 62,62,2,Meter,1,Meter,Green
+=======
+>>>>>>> 38e78ae (Add README.md)
 63,63,600,Centimeter,900,Centimeter,Green
 64,64,400,Centimeter,300,Centimeter,Green
 65,65,200,Centimeter,300,Centimeter,Green
@@ -21,31 +24,73 @@ id,plant_id,height,height_unit,wide,wide_unit,leaf_color
 134,134,50,Meter,15,Meter,Green
 160,61,3,Meter,300,Centimeter,Red
 162,61,3,Meter,300,Centimeter,Red
+<<<<<<< HEAD
 164,62,100,Centimeter,50,Centimeter,Green
 165,62,100,Centimeter,50,Centimeter,Green
 166,63,60,Centimeter,90,Centimeter,Green
 167,62,100,Centimeter,50,Centimeter,Green
 168,62,100,Centimeter,50,Centimeter,Green
 169,62,100,Centimeter,50,Centimeter,Green
+=======
+166,63,60,Centimeter,90,Centimeter,Green
+>>>>>>> 38e78ae (Add README.md)
 170,94,350,Centimeter,100,Meter,Green
 171,80,60,Centimeter,40,Centimeter,Green
 172,86,1,Meter,4,Centimeter,Green
 174,65,20,Centimeter,30,Centimeter,Green
+<<<<<<< HEAD
 175,62,100,Centimeter,50,Centimeter,Green
 177,108,1,Centimeter,1,Centimeter,Green
 178,62,100,Centimeter,50,Centimeter,Green
+=======
+177,108,1,Centimeter,1,Centimeter,Green
+>>>>>>> 38e78ae (Add README.md)
 180,165,100,Centimeter,30,Centimeter,Green
 181,77,100,Centimeter,30,Centimeter,Green
 182,166,1,Meter,1,Meter,Yellow
 186,166,1,Meter,1,Meter,Yellow
+<<<<<<< HEAD
 187,62,100,Centimeter,50,Centimeter,Green
+=======
+>>>>>>> 38e78ae (Add README.md)
 188,63,60,Centimeter,90,Centimeter,Green
 189,64,400,Centimeter,300,Centimeter,Green
 190,75,500,Centimeter,400,Centimeter,Green
 191,76,45,Centimeter,40,Centimeter,Green
+<<<<<<< HEAD
 192,62,100,Centimeter,50,Centimeter,Green
+=======
+>>>>>>> 38e78ae (Add README.md)
 193,61,3,Meter,300,Centimeter,Red
 194,108,1,Centimeter,1,Centimeter,Green
 195,64,400,Centimeter,300,Centimeter,Green
 196,63,60,Centimeter,90,Centimeter,Green
+<<<<<<< HEAD
 197,62,100,Centimeter,50,Centimeter,Green
+=======
+198,61,3,Meter,300,Centimeter,Red
+199,61,3,Meter,300,Centimeter,Red
+200,65,20,Centimeter,30,Centimeter,Green
+201,69,150,Centimeter,75,Centimeter,Green
+202,75,500,Centimeter,400,Centimeter,Green
+203,76,45,Centimeter,40,Centimeter,Green
+204,78,6,Meter,4,Meter,Green
+205,79,20,Meter,8,Meter,Green
+206,81,1,Centimeter,1,Centimeter,Yellow
+208,85,1,Centimeter,1,Centimeter,Yellow
+209,87,1,Centimeter,1,Centimeter,Yellow
+210,93,120,Centimeter,60,Centimeter,Green
+211,134,50,Meter,15,Meter,Green
+212,61,3,Meter,300,Centimeter,Red
+214,172,100,centimeter,5,centimeter,Green
+216,61,3,Meter,300,Centimeter,Red
+220,64,400,Centimeter,300,Centimeter,Green
+221,64,400,Centimeter,300,Centimeter,Green
+222,61,3,Meter,300,Centimeter,Red
+224,63,60,Centimeter,90,Centimeter,Green
+226,80,61,Centimeter,40,Centimeter,Green
+227,61,3,Meter,300,Centimeter,Red
+228,61,3,Meter,300,Centimeter,Red
+229,178,100,centimeter,5,centimeter,Green
+230,179,100,centimeter,5,centimeter,Green
+>>>>>>> 38e78ae (Add README.md)

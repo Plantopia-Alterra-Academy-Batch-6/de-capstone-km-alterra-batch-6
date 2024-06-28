@@ -8,15 +8,34 @@ id,plant_id,user_id,image_url,created_at,updated_at
 29,75,14,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718701457/be-agriculture/abmdpequ5tbmwaoynyk7.jpg,2024-06-18 09:04:18.157,2024-06-18 09:04:18.157
 30,75,14,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718701702/be-agriculture/boyigjtd8adnh55zamyi.jpg,2024-06-18 09:08:23.158,2024-06-18 09:08:23.158
 31,75,14,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718701808/be-agriculture/rjirunst8zhicup15y68.jpg,2024-06-18 09:10:08.294,2024-06-18 09:10:08.294
+<<<<<<< HEAD
 32,62,14,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718701828/be-agriculture/cmqozbxcfl9etyckrutf.jpg,2024-06-18 09:10:29.009,2024-06-18 09:10:29.009
+=======
+>>>>>>> 38e78ae (Add README.md)
 33,61,23,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718735965/be-agriculture/vnmazuso0c6ucaidledx.jpg,2024-06-18 18:39:25.754,2024-06-18 18:39:25.754
 34,61,28,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718767084/be-agriculture/py9rsmybfts17piicemv.jpg,2024-06-19 03:18:04.746,2024-06-19 03:18:04.746
 35,61,14,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718793588/be-agriculture/ty0tt38gsvk7mygkhafk.jpg,2024-06-19 10:39:49.218,2024-06-19 10:39:49.218
 36,61,35,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718821772/be-agriculture/ysna4kaljbmgvnhjvbkp.jpg,2024-06-19 18:29:32.527,2024-06-19 18:29:32.527
+<<<<<<< HEAD
 37,62,35,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718822099/be-agriculture/yaguov691f3w8bwsbdua.png,2024-06-19 18:35:00.122,2024-06-19 18:35:00.122
 38,62,35,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718893098/be-agriculture/qs2fjalguemt3tdonq5p.jpg,2024-06-20 14:18:19.284,2024-06-20 14:18:19.284
 39,62,37,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718939653/be-agriculture/ptzsaqoiabtde5a3duso.jpg,2024-06-21 03:14:13.670,2024-06-21 03:14:13.670
+=======
+>>>>>>> 38e78ae (Add README.md)
 40,65,14,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718943344/be-agriculture/cfys6uuqnwb8shfkblbn.jpg,2024-06-21 04:15:45.226,2024-06-21 04:15:45.226
 41,61,33,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1718993605/be-agriculture/ykiuannweg8fxv3ikaqc.jpg,2024-06-21 18:13:26.053,2024-06-21 18:13:26.053
 42,77,3,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719069211/be-agriculture/secgfu6nfjnbfvbgwcfq.jpg,2024-06-22 15:13:31.714,2024-06-22 15:13:31.714
 43,85,3,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719072496/be-agriculture/rde71khx9kxhdyhdeahj.jpg,2024-06-22 16:08:17.236,2024-06-22 16:08:17.236
+<<<<<<< HEAD
+=======
+44,64,14,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719119383/be-agriculture/lw7x4wumyvggklrsidef.jpg,2024-06-23 05:09:44.817,2024-06-23 05:09:44.817
+47,69,14,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719166741/be-agriculture/ookxvpwdoclzhr1dohk3.jpg,2024-06-23 18:19:02.114,2024-06-23 18:19:02.114
+49,63,32,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719197301/be-agriculture/wfchspcfoan8ptxrldc5.jpg,2024-06-24 02:48:21.887,2024-06-24 02:48:21.887
+50,81,41,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719198360/be-agriculture/dhwntcvm2xth1jm1reiv.jpg,2024-06-24 03:06:00.355,2024-06-24 03:06:00.355
+51,61,32,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719202623/be-agriculture/ij3jbxtxdpuqx07vtf8d.webp,2024-06-24 04:17:03.751,2024-06-24 04:17:03.751
+52,1,3,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719443136/be-agriculture/e0pvmjfmlaltjclnhpxy.png,2024-06-26 23:05:36.834,2024-06-26 23:05:36.834
+53,61,39,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719472096/be-agriculture/caitx0vu8mgnn6f96ayq.jpg,2024-06-27 07:08:17.027,2024-06-27 07:08:17.027
+54,61,39,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719474182/be-agriculture/far2vnhzow6w2kkpcse6.jpg,2024-06-27 07:43:03.322,2024-06-27 07:43:03.322
+55,61,39,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719475612/be-agriculture/doqgpyodomgwjoxl9vix.jpg,2024-06-27 08:06:53.407,2024-06-27 08:06:53.407
+56,61,39,https://res.cloudinary.com/dxrz0cg5z/image/upload/v1719475791/be-agriculture/au5dksyjhsiket7phrws.jpg,2024-06-27 08:09:51.753,2024-06-27 08:09:51.753
+>>>>>>> 38e78ae (Add README.md)

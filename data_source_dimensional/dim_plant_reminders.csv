@@ -1,6 +1,9 @@
 id,plant_id,watering_frequency,each,watering_amount,unit,watering_time,weather_condition,condition_description,created_at,updated_at
 61,61,5,Week,300,Liter (l),16:00,"Bright Sun,Rainy,Stormy Rain","Sun,Rainy,Stormy",2024-06-17 08:00:05.718,2024-06-17 08:00:05.718
+<<<<<<< HEAD
 62,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-18 02:19:10.663,2024-06-18 02:19:10.663
+=======
+>>>>>>> 38e78ae (Add README.md)
 63,63,1,Week,1,Liter (l),08:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning.,Maintain regular watering schedule.,Reduce watering to prevent root rot.,Ensure proper drainage and avoid waterlogging.",2024-06-18 02:38:23.630,2024-06-18 02:38:23.630
 64,64,4,Week,500,Milliliter (ml),08:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain regular watering schedule.,Water only if soil appears dry.,Ensure pots have drainage holes to prevent waterlogging.",2024-06-18 02:53:10.675,2024-06-18 02:53:10.675
 65,65,2,Week,1,Liter (l),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain regular watering schedule.,Reduce watering to prevent overwatering.,Cover plants to protect them from damage.",2024-06-18 04:11:31.785,2024-06-18 04:11:31.785
@@ -21,31 +24,73 @@ id,plant_id,watering_frequency,each,watering_amount,unit,watering_time,weather_c
 134,134,3,Day,10,Liter (l),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Ensure that the durian plants receive an adequate amount of water, especially during hot and dry periods. Increase the frequency of watering to prevent the soil from drying out too quickly.,Monitor soil moisture regularly and adjust the watering frequency as needed. Plants may need a little extra water because evaporation will be lower on cloudy days.,Monitor soil moisture carefully. Reduce watering frequency if the soil is already saturated due to excessive rainfall.,Ensure that durian plants are protected from strong winds and heavy rain. Use supports or covering materials to protect plants from physical damage.",2024-06-19 12:05:37.751,2024-06-19 12:05:37.751
 160,61,5,Week,300,Liter (l),16:30,"Bright Sun,Rainy","Sun,Rainy",2024-06-20 05:04:49.011,2024-06-20 05:04:49.011
 162,61,5,Week,300,Liter (l),16:30,"Bright Sun,Rainy","Sun,Rainy",2024-06-20 05:58:13.317,2024-06-20 05:58:13.317
+<<<<<<< HEAD
 164,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-20 06:36:40.643,2024-06-20 06:36:40.643
 165,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-20 06:37:43.863,2024-06-20 06:37:43.863
 166,63,1,Week,1,Liter (l),08:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning.,Maintain regular watering schedule.,Reduce watering to prevent root rot.,Ensure proper drainage and avoid waterlogging.",2024-06-20 07:30:53.359,2024-06-20 07:30:53.359
 167,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-20 07:47:20.842,2024-06-20 07:47:20.842
 168,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-20 07:57:41.021,2024-06-20 07:57:41.021
 169,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-20 08:09:12.571,2024-06-20 08:09:12.571
+=======
+166,63,1,Week,1,Liter (l),08:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning.,Maintain regular watering schedule.,Reduce watering to prevent root rot.,Ensure proper drainage and avoid waterlogging.",2024-06-20 07:30:53.359,2024-06-20 07:30:53.359
+>>>>>>> 38e78ae (Add README.md)
 170,94,2,Week,1,Liter (l),08:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Maintain regular watering schedule.,Reduce watering to prevent overwatering.,Protect young plants from wind and heavy rain.",2024-06-20 08:11:24.184,2024-06-20 08:11:24.184
 171,80,1,Week,500,Milliliter (ml),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning to prevent heat stress.,Adjust watering frequency based on soil moisture.,Reduce watering and ensure good drainage to prevent root rot.,Protect Aloe Vera from excessive rain and wind damage.",2024-06-20 08:12:58.058,2024-06-20 08:12:58.058
 172,86,1,Day,1,Liter (l),12:00,Bright Sun,,2024-06-20 08:17:12.049,2024-06-20 08:17:12.049
 174,65,2,Week,500,Milliliter (ml),07:30,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain regular watering schedule.,Reduce watering to prevent overwatering.,Cover plants to protect them from damage.",2024-06-20 09:36:10.443,2024-06-20 09:36:10.443
+<<<<<<< HEAD
 175,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-20 14:20:08.510,2024-06-20 14:20:08.510
 177,108,2,Week,1,Liter (l),12:00,Bright Sun,...,2024-06-20 15:38:40.004,2024-06-20 15:38:40.004
 178,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-20 15:41:12.789,2024-06-20 15:41:12.789
+=======
+177,108,2,Week,1,Liter (l),12:00,Bright Sun,...,2024-06-20 15:38:40.004,2024-06-20 15:38:40.004
+>>>>>>> 38e78ae (Add README.md)
 180,165,1,Month,3,Liter (l),08:00,"Bright Sun,Rainy,Stormy Rain","water early to avoid rapid evaporation., ensure good drainage to prevent root rot.,protect cacti from excessive rain.",2024-06-20 17:38:27.229,2024-06-20 17:38:27.229
 181,77,1,Week,500,Liter (l),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Ensure orchids are shaded to prevent leaf burn.,Maintain regular watering to avoid drying out.,Reduce watering and monitor for excess moisture.,Protect orchids from strong winds and heavy rain.",2024-06-20 18:04:55.063,2024-06-20 18:04:55.063
 182,166,1,Day,1,Liter (l),06:00,Bright Sun,tes,2024-06-21 03:27:19.415,2024-06-21 03:27:19.415
 186,166,1,Day,1,Liter (l),06:00,Bright Sun,tes,2024-06-21 07:26:59.634,2024-06-21 07:26:59.634
+<<<<<<< HEAD
 187,62,3,Week,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-21 16:57:16.547,2024-06-21 16:57:16.547
+=======
+>>>>>>> 38e78ae (Add README.md)
 188,63,1,Day,1,Liter (l),08:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning.,Maintain regular watering schedule.,Reduce watering to prevent root rot.,Ensure proper drainage and avoid waterlogging.",2024-06-22 04:03:56.233,2024-06-22 04:03:56.233
 189,64,4,Day,500,Milliliter (ml),08:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain regular watering schedule.,Water only if soil appears dry.,Ensure pots have drainage holes to prevent waterlogging.",2024-06-22 04:04:51.584,2024-06-22 04:04:51.584
 190,75,3,Day,1,Liter (l),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain a regular watering schedule.,Reduce watering to avoid waterlogging.,Protect the plants from waterlogging.",2024-06-22 04:06:35.894,2024-06-22 04:06:35.894
 191,76,1,Day,500,Milliliter (ml),06:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the morning to allow for absorption before the heat of the day.,Adjust watering based on soil moisture levels.,Reduce additional watering to avoid over-saturation.,Ensure pots have drainage and adjust watering accordingly.",2024-06-22 04:09:49.668,2024-06-22 04:09:49.668
+<<<<<<< HEAD
 192,62,3,Day,2,Liter (l),09:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-22 04:19:56.014,2024-06-22 04:19:56.014
+=======
+>>>>>>> 38e78ae (Add README.md)
 193,61,5,Day,300,Liter (l),16:30,"Bright Sun,Rainy","Sun,Rainy",2024-06-22 04:22:57.725,2024-06-22 04:22:57.725
 194,108,2,Day,1,Liter (l),12:00,Bright Sun,...,2024-06-22 04:23:50.448,2024-06-22 04:23:50.448
 195,64,4,Day,500,Milliliter (ml),22:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain regular watering schedule.,Water only if soil appears dry.,Ensure pots have drainage holes to prevent waterlogging.",2024-06-22 11:42:36.853,2024-06-22 11:42:36.853
 196,63,1,Day,1,Liter (l),21:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning.,Maintain regular watering schedule.,Reduce watering to prevent root rot.,Ensure proper drainage and avoid waterlogging.",2024-06-22 11:44:05.152,2024-06-22 11:44:05.152
+<<<<<<< HEAD
 197,62,3,Day,2,Liter (l),20:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning or late afternoon.,Reduce watering slightly to avoid overwatering.,Check soil moisture and water only if needed.,Ensure proper drainage to prevent root rot.",2024-06-22 11:48:22.357,2024-06-22 11:48:22.357
+=======
+198,61,5,Day,300,Liter (l),16:30,"Bright Sun,Rainy","is Sun,is Rainy",2024-06-23 06:22:41.567,2024-06-23 06:22:41.567
+199,61,5,Day,300,Liter (l),16:30,"Bright Sun,Rainy","is Sun,is Rainy",2024-06-23 06:25:29.580,2024-06-23 06:25:29.580
+200,65,2,Week,500,Milliliter (ml),07:30,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain regular watering schedule.,Reduce watering to prevent overwatering.,Cover plants to protect them from damage.",2024-06-23 06:27:27.750,2024-06-23 06:27:27.750
+201,69,2,Week,2,Liter (l),08:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning.,Maintain regular watering schedule.,Reduce watering to prevent waterlogging.,Ensure good drainage to avoid root rot.",2024-06-23 06:28:20.711,2024-06-23 06:28:20.711
+202,75,3,Day,1,Liter (l),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain a regular watering schedule.,Reduce watering to avoid waterlogging.,Protect the plants from waterlogging.",2024-06-23 06:33:58.515,2024-06-23 06:33:58.515
+203,76,1,Day,500,Milliliter (ml),06:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the morning to allow for absorption before the heat of the day.,Adjust watering based on soil moisture levels.,Reduce additional watering to avoid over-saturation.,Ensure pots have drainage and adjust watering accordingly.",2024-06-23 06:35:56.716,2024-06-23 06:35:56.716
+204,78,1,Week,5,Liter (l),06:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning to prevent heat stress.,Adjust watering frequency based on soil moisture.,Reduce watering and ensure good drainage.,Protect young trees from wind damage and excess water.",2024-06-23 06:37:35.615,2024-06-23 06:37:35.615
+205,79,1,Week,10,Liter (l),06:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning to prevent heat stress.,Adjust watering frequency based on soil moisture.,Reduce watering and ensure good drainage.,Protect young trees from wind damage and excess water.",2024-06-23 06:44:54.956,2024-06-23 06:44:54.956
+206,81,1,Day,1,Liter (l),01:00,Bright Sun,gk ada,2024-06-23 06:48:58.852,2024-06-23 06:48:58.852
+208,85,1,Day,1,Milliliter (ml),01:00,Bright Sun,lebih baik dibiarkan karena akan tumbuh sendiri,2024-06-23 06:57:13.250,2024-06-23 06:57:13.250
+209,87,1,Day,1,Milliliter (ml),01:00,Bright Sun,,2024-06-23 06:58:33.257,2024-06-23 06:58:33.257
+210,93,1,Week,500,Milliliter (ml),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning.,Maintain regular watering schedule.,Reduce watering to prevent root rot.,Ensure proper drainage to avoid waterlogging.",2024-06-23 07:05:15.117,2024-06-23 07:05:15.117
+211,134,3,Day,10,Liter (l),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Ensure that the durian plants receive an adequate amount of water, especially during hot and dry periods. Increase the frequency of watering to prevent the soil from drying out too quickly.,Monitor soil moisture regularly and adjust the watering frequency as needed. Plants may need a little extra water because evaporation will be lower on cloudy days.,Monitor soil moisture carefully. Reduce watering frequency if the soil is already saturated due to excessive rainfall.,Ensure that durian plants are protected from strong winds and heavy rain. Use supports or covering materials to protect plants from physical damage.",2024-06-23 07:08:08.711,2024-06-23 07:08:08.711
+212,61,5,Day,300,Liter (l),16:30,"Bright Sun,Rainy","is Sunshine,is Rainy",2024-06-23 07:27:43.970,2024-06-23 07:27:43.970
+214,172,7,days,500,ml,09:00,Sunny,Water early in the morning when it's sunny,2024-06-23 16:21:07.344,2024-06-23 16:21:07.344
+216,61,5,Day,300,Liter (l),16:30,"Bright Sun,Rainy","is Sunshine,is Rainy",2024-06-24 01:42:22.602,2024-06-24 01:42:22.602
+220,64,4,Day,500,Milliliter (ml),22:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain regular watering schedule.,Water only if soil appears dry.,Ensure pots have drainage holes to prevent waterlogging.",2024-06-24 02:38:25.908,2024-06-24 02:38:25.908
+221,64,4,Day,500,Milliliter (ml),22:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water in the early morning.,Maintain regular watering schedule.,Water only if soil appears dry.,Ensure pots have drainage holes to prevent waterlogging.",2024-06-24 02:39:41.434,2024-06-24 02:39:41.434
+222,61,5,Day,300,Liter (l),16:30,"Bright Sun,Rainy","is Sunshine,is Rainy",2024-06-24 02:40:16.727,2024-06-24 02:40:16.727
+224,63,1,Day,1,Liter (l),21:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning.,Maintain regular watering schedule.,Reduce watering to prevent root rot.,Ensure proper drainage and avoid waterlogging.",2024-06-24 07:29:46.395,2024-06-24 07:29:46.395
+226,80,1,Week,500,Milliliter (ml),07:00,"Bright Sun,Part Cloudy Sun,Rainy,Stormy Rain","Water early in the morning to prevent heat stress.,Adjust watering frequency based on soil moisture.,Reduce watering and ensure good drainage to prevent root rot.,Protect Aloe Vera from excessive rain and wind damage.",2024-06-26 14:09:04.095,2024-06-26 14:09:04.095
+227,61,5,Day,300,Liter (l),16:30,"Bright Sun,Rainy","is Sunshine,is Rainy",2024-06-27 00:40:11.920,2024-06-27 00:40:11.920
+228,61,5,Day,300,Liter (l),16:30,"Bright Sun,Rainy","is Sunshine,is Rainy",2024-06-27 00:41:08.785,2024-06-27 00:41:08.785
+229,178,7,days,500,ml,09:00,Sunny,Water early in the morning when it's sunny,2024-06-27 06:59:07.491,2024-06-27 06:59:07.491
+230,179,7,days,500,ml,09:00,Sunny,Water early in the morning when it's sunny,2024-06-27 07:07:55.159,2024-06-27 07:07:55.159
+>>>>>>> 38e78ae (Add README.md)

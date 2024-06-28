@@ -1,0 +1,6 @@
+id,title,content,image,created_at,updated_at
+2,Test update ke -2,Test update ke -2,https://res.cloudinary.com/dknvngb88/image/upload/v1719123883/thumbnail/public/1719123883064093631.jpg,2024-06-23 06:10:00.012,2024-06-23 06:24:43.637
+5,test wakti created at,Test ke-2,https://res.cloudinary.com/dknvngb88/image/upload/v1719204356/thumbnail/public/1719204356283564763.png,2024-06-24 04:45:56.765,2024-06-24 04:45:56.765
+6,test waktu created at in indonesia,test waktu created at in indonesia,https://res.cloudinary.com/dknvngb88/image/upload/v1719296803/thumbnail/public/1719296803102011892.png,2024-06-25 06:26:43.649,2024-06-25 06:26:43.649
+7,test waktu created at in indonesia,test waktu created at in indonesia,https://res.cloudinary.com/dknvngb88/image/upload/v1719298323/thumbnail/public/1719298322981753981.png,2024-06-25 06:52:03.456,2024-06-25 06:52:03.456
+8,Coba,coba,https://cloud.google.com/compute/docs/regions-zones/changing-default-zone-region#console,2024-06-25 14:00:38.000,2024-06-25 14:00:38.000

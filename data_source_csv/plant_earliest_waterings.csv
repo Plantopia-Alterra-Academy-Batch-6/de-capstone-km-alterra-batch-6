@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 plant_id,watering_time
+=======
+plant_id,watering_time,id
+>>>>>>> 38e78ae (Add README.md)
