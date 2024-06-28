@@ -17,7 +17,7 @@ Plantopia is an innovative agriculture application designed to help users effici
 
 # Tech Stacks
 ## Tools:
-[Tools](Tools.png)
+![Tools](Tools.png)
 
 ## Framework
 ![LIBRARY](Library.png)
