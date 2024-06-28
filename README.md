@@ -23,7 +23,7 @@ Plantopia is an innovative agriculture application designed to help users effici
 ![LIBRARY](Library.png)
 
 # High Level Architecture (HLA) or Architecture Diagram ETL
-![HLA](./images/HLA.png)
+![HLA](HLA.jpeg)
 This diagram represents a high-level architecture (HLA) for a data pipeline using Prefect for workflow orchestration, Python for data transformation, Google Cloud SQL as the data source, Google BigQuery as the data warehouse, and Looker Studio for visualization. This ETL (Extract, Transform, Load) process is automated using Apache Airflow. The diagram illustrates the following steps:
 
 1. **Extract**
